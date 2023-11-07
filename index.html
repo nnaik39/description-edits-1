@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
 
-        <title>What Questions Do You Have for This Experiment?</title>
+        <title>How Would You Edit These Descriptions?</title>
 
         <!-- fonts from Google fonts -->
         <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700|Noto+Serif:400,700|Playfair+Display:700" rel="stylesheet">
@@ -36,6 +36,17 @@
         <!-- views -->
         <script src="views/views.js"></script>
 
+        <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <link href="https://cdn.quilljs.com/1.1.6/quill.snow.css" rel="stylesheet">
+        <script src="https://cdn.quilljs.com/1.1.6/quill.js"></script>
+        <style>
+        #editor {
+          height: 200px;
+          width: 700px;
+          margin: auto;
+        }
+        </style>
+      
         <script src="//uniqueturker.myleott.com/lib.js" type="text/javascript"></script>
         <script type="text/javascript">
           $(document).ready(function(){
@@ -148,6 +159,9 @@
                     <p class="text">{{{ text }}}</p>
                 </section>
                 {{/ text }}
+                <div class="picture">
+                    <img src={{ picture }} alt="A picture" height="300">
+                </div>
                 <br>
                 {{# paragraph2 }}
                 <section class="text-container">
@@ -183,7 +197,7 @@
             {{/ critical_text }}
 
             <div class="picture">
-                    <p class="bordered-text"> Image Description: {{{ description }}} </p>
+                <img src={{ picture }} alt="a picture" height="300">
             </div>
             <br>
             <hr>
@@ -211,27 +225,27 @@
                 <br> 
                 
                 {{# q2 }}
-                <p class="question">{{{ q2 }}} </p>
+                <p id="description-instruction">{{{ q2 }}} </p>
                 {{/ q2 }}
-                 <div class="popup">
-                    <span class="popuptext" id="myPopup">Think of questions that will help you picture the image, and that someone who can see the image is likely going to be able to answer. </span>
-                </div>
-                <button id="hint"> Hint </button>
 
-                <p id="slider2_box" class="answer-container blend-out">
-                    <textarea class="image-question" id="question-1"/>
-                    <textarea class="image-question" id="question-2"/>
+
+                <div id="editor">
+                    {{# description }}
+                    <p> {{{ description }}} </p>
+                    {{/ description }}
+                </div>
+
+                <br> <br>
+                <p class="answer-container multchoice" style="text-align: center; color: black;">
+                    {{# checkbox }}
                     <br>
+                    <input type="checkbox" id="checkbox" name="checkbox"><label for="checkbox">{{{ checkbox }}}</label>
+                    {{/ checkbox }}
                 </p>
+
             </div>
 
             <br> <br>
-            <p class="answer-container multchoice" style="text-align: center; color: black;">
-                {{# checkbox }}
-                <br>
-                <input type="checkbox" id="checkbox" name="checkbox"><label for="checkbox">{{{ checkbox }}}</label>
-                {{/ checkbox }}
-            </p>
             
             <br>
             <!-- 
@@ -279,7 +293,7 @@
             <button id="next">Next</button>
             {{/ button }}
 
-            <p id="error" class="help-text" style="visibility: hidden;">You haven't responded to all questions. To continue, please answer the slider question and respond to all written questions in more than 10 characters and adjust the slider.</p>
+            <p id="error" class="help-text" style="visibility: hidden;">You haven't responded to all questions. To continue, please adjust the slider and either: 1) make an edit to the description or 2) click the checkbox to indicate the description needs no edits.</p>
         </div>
         </script>
 

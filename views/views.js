@@ -77,7 +77,7 @@ var intro = {
     title: "Stanford NLP Lab",
     // introduction text
     text:
-        "Thank you for participating in our study. In this study, you will see six AI-generated descriptions paired with a type of website where the image appears. For each image description, you will write questions to understand the image further. The whole study should take around six and a half minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
+        "Thank you for participating in our study. In this study, you will see six AI-generated descriptions paired with a type of website where the image appears. For each image description, you will propose edits to the description to help another user understand the image better. The whole study should take around eight minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
     legal_info:
         "<strong>LEGAL INFORMATION</strong>:<br><br>We invite you to participate in a research study on language production and comprehension.<br>Your experimenter will ask you to do a linguistic task such as reading sentences or words, naming pictures or describing scenes, making up sentences of your own, or participating in a simple language game.<br><br>You will be paid for your participation at the posted rate.<br><br>There are no risks or benefits of any kind involved in this study.<br><br>If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. You have the right to refuse to do particular tasks. Your individual privacy will be maintained in all published and written data resulting from the study.<br>You may print this form for your records.<br><br>CONTACT INFORMATION:<br>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director Christopher Potts at (650) 723-4284. <br>If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-2480 or toll free at 1-866-680-2906. You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306 USA.<br><br>If you agree to participate, please proceed to the study tasks.",
     // introduction's slide proceeding button text
@@ -138,8 +138,8 @@ var instruction_screen = {
     name: "instruction",
     title: "Instructions",
     text:
-        "<strong>Online images</strong> can be a useful resource, but there are cases where you <strong>cannot directly see</strong> the image—for instance, if you have a visual impairment or if you’re browsing a speech-enabled website where the site content is narrated.",
-    paragraph2: "In this study, we’re investigating how asking questions might help when you can’t see the image. You’ll see six <strong>image descriptions</strong>, each paired with a type of website where you might see the image. You’ll be asked to <strong> guess why </strong> the image appears on this type of website, and to <strong> ask questions </strong> to understand the image further.",
+        "<strong>Online images</strong> can be a useful resource, but there are cases where someone else <strong>cannot directly see</strong> the image—for instance, if they have a visual impairment or if they're browsing a speech-enabled website where the site content is narrated.",
+    paragraph2: "In this study, we’re investigating what descriptions might help people who cannot see the image. You’ll see six <strong>image descriptions</strong>, each paired with a type of website where you might see the image. You’ll be asked to <strong> propose edits </strong> to the description to make the description more helpful to another user.",
     readyText: "Are you ready?",
     buttonText: "Begin experiment",
     // render function renders the view
@@ -149,7 +149,7 @@ var instruction_screen = {
         $("#main").html(
             Mustache.render(viewTemplate, {
                 title: this.title,
-                picture: 'images/question_elicitation_study.gif',
+                picture: 'images/description-editing.gif',
                 text: this.text,
                 button: this.buttonText,
                 paragraph2: this.paragraph2,
@@ -183,9 +183,9 @@ var main = {
       //  console.log("Current category ", exp.trial_info.main_trials[CT]['category'])
 
         q1 = "How likely is it that you come across this image while browsing a "
-        q2 = "What are two questions that you'd want to have answered by someone who can see the image if you encountered it on a "
+        q2 = "Assuming that the image appears on a "
 
-        q2 = "If you encountered this image on a "
+        q2 = "Assume someone else is browsing a "
         if (exp.trial_info.main_trials[CT]['category'] == 'health') {
             text = "Imagine that you are browsing a <strong>health website</strong>, with the goal of learning how to live a healthier lifestyle, when you encounter the following image."
             q1 += "<strong>health website</strong>"
@@ -219,8 +219,8 @@ var main = {
 
         q1 += "?"
 
-        q2 += ", what are two questions that you'd want to have answered by someone who can see the image?"
-        checkbox = 'There is a grammatical error in the description';
+        q2 += " when they encounter this image. However, they can't view the image itself; they only have access to the description below. Please edit this description of the image to correct any errors and make the description more useful to this person."
+        checkbox = 'There are no edits that would make the description more useful to someone who cannot see the image.';
 
         slider_left = 'Not likely';
         slider_right = 'Likely';
@@ -293,12 +293,26 @@ var main = {
         $('input[id=checkbox]').change(function(){
             console.log("checkbox on change is checked");
             console.log("Box checked value ", box_checked)
+
             if($(this).is(':checked')) {
                 box_checked = true;
+                let element1 = document.getElementById('description-instruction');
+                console.log("Element1 ", element1)
+
+                element1.style.color = 'grey';
+                let element3 = document.getElementById('editor');
+
+                element3.style.visibility = 'hidden';
             } else {
+                let element1 = document.getElementById('description-instruction');
+                console.log("Element1 ", element1)
+                element1.style.color = 'black';
                 box_checked = false;
+                let element3 = document.getElementById('editor');
+
+                element3.style.visibility = 'visible';
+
             }
-            console.log("Box checked value after changing/updating it ", box_checked)
         });
 
         // event listener for buttons; when an input is selected, the response
@@ -308,24 +322,50 @@ var main = {
             popup.classList.toggle("show");
         });
 
-        $("#next").on("click", function() {
-            console.log("checkbox value ", box_checked)
+        var editor_changed = false;
 
-            if (context_justification_changed & question1_changed & question2_changed) {
+        var quill = new Quill('#editor', {
+            modules: {
+                toolbar: false    // Snow includes toolbar by default
+              },
+            theme: 'snow'
+          });
+
+
+        var total_deltas = [];
+        var sequential_change_char_by_char = [];
+
+        quill.on('text-change', function(delta, oldDelta, source) {
+//              console.log(delta)
+   //           console.log("oldDelta ", oldDelta)
+              total_deltas.push(delta)
+              sequential_change_char_by_char.push(quill.getContents()['ops'][0]['insert']);
+              editor_changed = true;
+              var quillContent = quill.getContents()['ops'][0]['insert'];
+              console.log("Quill content ", quillContent)
+            });
+      
+        $("#next").on("click", function() {
+            if ((context_justification_changed && box_checked) || (context_justification_changed && editor_changed)) {
                 var RT = Date.now() - startingTime; // measure RT before anything else
+
+                console.log("Deltas ", total_deltas)
+                console.log("Sequential change data ", sequential_change_char_by_char)
+
                 var trial_data = {
                     trial_number: CT + 1,
                     reactionTime: RT,
                     picture: exp.trial_info.main_trials[CT]['filename'],
-                    description: exp.trial_info.main_trials[CT]['description'],
                     category: exp.trial_info.main_trials[CT]['category'],
                     context_justification: $('#context-justification').val(),
-                    q1: $('#question-1').val(),
-                    q2: $('#question-2').val(),
+                    start_description: exp.trial_info.main_trials[CT]['description'],
+                    final_description: quill.getContents()['ops'][0]['insert'],
                     checkbox: box_checked,
+                    deltas: total_deltas,
+                    sequential_change: sequential_change_char_by_char,
                     comments: $('#comments').val()
                 };
-//                console.log('Trial data ', trial_data)
+                console.log('Trial data ', trial_data)
 
                 exp.trial_data.push(trial_data);
                 exp.findNextView();
@@ -337,6 +377,8 @@ var main = {
 
         // record trial starting time
         var startingTime = Date.now();
+
+        console.log("starting time ", startingTime)
     },
     trials: 6
 };
@@ -402,7 +444,7 @@ var thanks = {
                 Mustache.render(viewTemplate, {
                     thanksMessage: this.message,
                     extraMessage:
-                        "Please press the button below to confirm that you completed the experiment with Prolific. Your completion code is C8EY3KXX. <br />" +
+                        "Please press the button below to confirm that you completed the experiment with Prolific. Your completion code is C19RIR6N. <br />" +
                         "<a href=" +
                         config_deploy.prolificURL +
                         ' class="prolific-url">Confirm</a>'
