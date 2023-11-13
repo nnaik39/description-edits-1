@@ -98,8 +98,6 @@ exp.customize = function() {
         }
     }
 
-//    console.log("social media ", social_media)
-
     social_media = _.sampleSize(social_media, 1);
 //    console.log('social_media chosen ', social_media)    
 
@@ -110,6 +108,7 @@ exp.customize = function() {
     main_trials.push(...travel)
     main_trials.push(...shopping)
     main_trials.push(...social_media)
+
 
     // randomize main trial order, but keep practice trial order fixed
     this.trial_info.main_trials = _.shuffle(main_trials);
