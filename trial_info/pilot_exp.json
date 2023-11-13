@@ -51,12 +51,12 @@ var main_trials = {
             "category": "shopping"
         },
         {
-            "filename": "images/shopping/Electric_kettle_-_\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0438\u0306_\u0447\u0430\u0438\u0306\u043d\u0438\u043a.jpeg",
+            "filename": "images/shopping/Electric_kettle.jpeg",
             "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base.",
             "category": "health"
         },
         {
-            "filename": "images/shopping/Electric_kettle_-_\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0438\u0306_\u0447\u0430\u0438\u0306\u043d\u0438\u043a.jpeg",
+            "filename": "images/shopping/Electric_kettle.jpeg",
             "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base.",
             "category": "shopping"
         },
@@ -101,12 +101,12 @@ var main_trials = {
             "category": "health"
         },
         {
-            "filename": "images/health/Amanda_Franc\u0327ozo_At_The_Runner_Sports-5.jpeg",
+            "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
             "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
             "category": "health"
         },
         {
-            "filename": "images/health/Amanda_Franc\u0327ozo_At_The_Runner_Sports-5.jpeg",
+            "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
             "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
             "category": "shopping"
         },
@@ -159,6 +159,16 @@ var main_trials = {
             "filename": "images/travel/2550.jpg",
             "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
             "category": "travel"
+        },
+        {
+            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+            "description": "A model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
+            "category": "social_media"
+        },
+        {
+            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+            "description": "A model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
+            "category": "shopping"
         },
         {
             "filename": "images/travel/13957.jpg",
@@ -486,12 +496,12 @@ var main_trials = {
             "category": "science_journals"
         },
         {
-            "filename": "images/science_journals/Artist\u2019s_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
             "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
             "category": "news"
         },
         {
-            "filename": "images/science_journals/Artist\u2019s_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
             "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
             "category": "science_journals"
         },

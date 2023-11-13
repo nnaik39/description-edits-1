@@ -1,11 +1,11 @@
 import json 
 import os 
 
-f = open('pilot_exp.json')
+#f = open('pilot_exp.json')
  
 # returns JSON object as
 # a dictionary
-pilot_exp = json.load(f)
+#pilot_exp = json.load(f)
  
 # Iterating through the json
 # list
@@ -23,6 +23,12 @@ for participant in study_info:
         if (trial['picture'] not in count_image_descriptions):
             count_image_descriptions[trial['picture']] = 0
         count_image_descriptions[trial['picture']] += 1
+        if (trial['comments'] != ''):
+            print(trial['comments'])
+        if (trial['glb_comments'] != ''):
+            print(trial['glb_comments'])
+
+exit()
         
 for i in pilot_exp['images']:
     if (i['filename'] in count_image_descriptions and count_image_descriptions[i['filename']] >= 3):
