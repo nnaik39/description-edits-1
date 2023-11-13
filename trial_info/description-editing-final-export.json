@@ -62660,5 +62660,6389 @@
       "timeSpent": 12.213916666666666,
       "trial_number": 6
     }
+  ],
+  "-Nj9V6PHjAP_s0rw8sU2": [
+    {
+      "HitCorrect": "1",
+      "botresponse": "Elizabeth",
+      "category": "shopping",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909497113,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/travel/2550.jpg",
+      "prolific_id": "5d9f5c0702dca80018822b8e",
+      "reactionTime": 17087,
+      "startDate": "Mon Nov 13 2023 16:03:19 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909399750,
+      "start_description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
+      "timeSpent": 1.6227166666666666,
+      "trial_number": 1
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Elizabeth",
+      "category": "shopping",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909497113,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+      "prolific_id": "5d9f5c0702dca80018822b8e",
+      "reactionTime": 5057,
+      "startDate": "Mon Nov 13 2023 16:03:19 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909399750,
+      "start_description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
+      "timeSpent": 1.6227166666666666,
+      "trial_number": 2
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Elizabeth",
+      "category": "travel",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909497113,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A diver explores a sunken shipwreck near a coral reef underwater.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+      "prolific_id": "5d9f5c0702dca80018822b8e",
+      "reactionTime": 9641,
+      "startDate": "Mon Nov 13 2023 16:03:19 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909399750,
+      "start_description": "A diver explores a sunken shipwreck near a coral reef underwater.",
+      "timeSpent": 1.6227166666666666,
+      "trial_number": 3
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Elizabeth",
+      "category": "health",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909497113,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
+      "prolific_id": "5d9f5c0702dca80018822b8e",
+      "reactionTime": 4378,
+      "startDate": "Mon Nov 13 2023 16:03:19 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909399750,
+      "start_description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
+      "timeSpent": 1.6227166666666666,
+      "trial_number": 4
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Elizabeth",
+      "category": "travel",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909497113,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+      "prolific_id": "5d9f5c0702dca80018822b8e",
+      "reactionTime": 5372,
+      "startDate": "Mon Nov 13 2023 16:03:19 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909399750,
+      "start_description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
+      "timeSpent": 1.6227166666666666,
+      "trial_number": 5
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Elizabeth",
+      "category": "shopping",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909497113,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A person in a red and white suit is water skiing on a river, creating a spray of water.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+      "prolific_id": "5d9f5c0702dca80018822b8e",
+      "reactionTime": 4447,
+      "startDate": "Mon Nov 13 2023 16:03:19 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909399750,
+      "start_description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
+      "timeSpent": 1.6227166666666666,
+      "trial_number": 6
+    }
+  ],
+  "-Nj9VEV9pY-2JuW0NFN5": [
+    {
+      "HitCorrect": "1",
+      "botresponse": "susan",
+      "category": "health",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909530791,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A bowl of Asian noodle salad with vegetables and herbs.\n",
+      "glb_comments": "na",
+      "languages": "english",
+      "picture": "images/health/2456.jpg",
+      "prolific_id": "5b4a54b4ee41890001ae51b6",
+      "reactionTime": 9881,
+      "startDate": "Mon Nov 13 2023 15:04:10 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909450566,
+      "start_description": "A bowl of Asian noodle salad with vegetables and herbs.",
+      "timeSpent": 1.3370833333333334,
+      "trial_number": 1
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "susan",
+      "category": "health",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909530791,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.\n",
+      "glb_comments": "na",
+      "languages": "english",
+      "picture": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
+      "prolific_id": "5b4a54b4ee41890001ae51b6",
+      "reactionTime": 8678,
+      "startDate": "Mon Nov 13 2023 15:04:10 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909450566,
+      "start_description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
+      "timeSpent": 1.3370833333333334,
+      "trial_number": 2
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "susan",
+      "category": "health",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909530791,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+      "glb_comments": "na",
+      "languages": "english",
+      "picture": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+      "prolific_id": "5b4a54b4ee41890001ae51b6",
+      "reactionTime": 7911,
+      "startDate": "Mon Nov 13 2023 15:04:10 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909450566,
+      "start_description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
+      "timeSpent": 1.3370833333333334,
+      "trial_number": 3
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "susan",
+      "category": "social_media",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909530791,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.\n",
+      "glb_comments": "na",
+      "languages": "english",
+      "picture": "images/shopping/Green_brocade_silk_saree.jpeg",
+      "prolific_id": "5b4a54b4ee41890001ae51b6",
+      "reactionTime": 9108,
+      "startDate": "Mon Nov 13 2023 15:04:10 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909450566,
+      "start_description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
+      "timeSpent": 1.3370833333333334,
+      "trial_number": 4
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "susan",
+      "category": "health",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909530791,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A group of people of various ages walking in line along a grassy path, with trees on one side.\n",
+      "glb_comments": "na",
+      "languages": "english",
+      "picture": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+      "prolific_id": "5b4a54b4ee41890001ae51b6",
+      "reactionTime": 7301,
+      "startDate": "Mon Nov 13 2023 15:04:10 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909450566,
+      "start_description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+      "timeSpent": 1.3370833333333334,
+      "trial_number": 5
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "susan",
+      "category": "shopping",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909530791,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A soccer team in striped blue and white kits poses for a group photo on the field.\n",
+      "glb_comments": "na",
+      "languages": "english",
+      "picture": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+      "prolific_id": "5b4a54b4ee41890001ae51b6",
+      "reactionTime": 7125,
+      "startDate": "Mon Nov 13 2023 15:04:10 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909450566,
+      "start_description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
+      "timeSpent": 1.3370833333333334,
+      "trial_number": 6
+    }
+  ],
+  "-Nj9V_KmcTyLYXmFcG69": [
+    {
+      "HitCorrect": "0",
+      "botresponse": "Jessica",
+      "category": "health",
+      "checkbox": false,
+      "comments": "",
+      "deltas": [
+        {
+          "ops": [
+            {
+              "retain": 1
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 2
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 3
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 4
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 5
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 6
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 7
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 8
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 9
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 10
+            },
+            {
+              "insert": "v"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 11
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 6
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "insert": "f"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 92
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 93
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 94
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 95
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 96
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 97
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 98
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 99
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 100
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 101
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 102
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 103
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 104
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        }
+      ],
+      "endTime": 1699909623387,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifting her legs, with other gym equipment and patrons in the background.\n",
+      "glb_comments": "",
+      "languages": "English, Bengali",
+      "picture": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+      "prolific_id": "611ee12b0e9abaefd865f415",
+      "reactionTime": 42463,
+      "sequential_change": [
+        "An woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An  woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An a woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An at woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An att woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An atta woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An attac woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An attact woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An attacti woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An attactiv woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An attactive woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine , with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine l, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine li, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lif, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lift, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifti, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine liftin, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifting, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifting , with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifting h, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifting he, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifting her, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifting her , with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifting her l, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifting her le, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifting her leg, with other gym equipment and patrons in the background.\n",
+        "An attractive woman in a yellow tank top and black shorts is exercising on a gym machine lifting her legs, with other gym equipment and patrons in the background.\n"
+      ],
+      "startDate": "Mon Nov 13 2023 16:03:04 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909384173,
+      "start_description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
+      "timeSpent": 3.9869,
+      "trial_number": 1
+    },
+    {
+      "HitCorrect": "0",
+      "botresponse": "Jessica",
+      "category": "shopping",
+      "checkbox": false,
+      "comments": "",
+      "deltas": [
+        {
+          "ops": [
+            {
+              "retain": 81
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 81
+            },
+            {
+              "insert": ","
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 82
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 83
+            },
+            {
+              "insert": "T"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 85
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 86
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 86
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 85
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 83
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 83
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 85
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 86
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 87
+            },
+            {
+              "insert": "m"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 92
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 93
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 94
+            },
+            {
+              "insert": "p"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 95
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 96
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 97
+            },
+            {
+              "insert": "y"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 98
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 99
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 100
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 100
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 99
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 98
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 97
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 96
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 95
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 94
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 93
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 92
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 87
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 86
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 85
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 85
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 86
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 87
+            },
+            {
+              "insert": "b"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "insert": "k"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 87
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 87
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 92
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 93
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 94
+            },
+            {
+              "insert": "p"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 95
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 96
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 97
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 98
+            },
+            {
+              "insert": "y"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 98
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 97
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 97
+            },
+            {
+              "insert": "y"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 98
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 99
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 100
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 101
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 102
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 103
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 104
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 105
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 106
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 107
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 108
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 109
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 110
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 111
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 112
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 113
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 114
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 115
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 116
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 117
+            },
+            {
+              "insert": "b"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 118
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 119
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 120
+            },
+            {
+              "insert": "k"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 121
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 122
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 123
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 124
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 125
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 126
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 127
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 128
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 129
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 130
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 131
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 131
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 130
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 130
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 131
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 132
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 133
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 134
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 135
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 136
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 137
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 138
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 139
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 140
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 141
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 142
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 143
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 144
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 145
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 146
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 147
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 148
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 149
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 150
+            },
+            {
+              "insert": ","
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 151
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 152
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 153
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 154
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 155
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 156
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 157
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 158
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 159
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 160
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 161
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 162
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 163
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 164
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 165
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 166
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 167
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 168
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 169
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 170
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 171
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 171
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 171
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 172
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 173
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 174
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 174
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 174
+            },
+            {
+              "insert": "f"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 175
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 176
+            },
+            {
+              "insert": "p"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 177
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 178
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 179
+            },
+            {
+              "insert": "p"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 180
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 181
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 182
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 183
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 184
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 185
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 186
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 187
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 188
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 189
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 190
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 191
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 192
+            },
+            {
+              "insert": "b"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 193
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 194
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 195
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 196
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 197
+            },
+            {
+              "insert": "f"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 198
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 199
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 200
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 200
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 199
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 198
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 198
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 199
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 199
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 198
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 197
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 197
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 198
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 199
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 200
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 201
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 202
+            },
+            {
+              "insert": "m"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 203
+            },
+            {
+              "insert": "."
+            }
+          ]
+        }
+      ],
+      "endTime": 1699909623387,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behind them.\n",
+      "glb_comments": "",
+      "languages": "English, Bengali",
+      "picture": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+      "prolific_id": "611ee12b0e9abaefd865f415",
+      "reactionTime": 58786,
+      "sequential_change": [
+        "A soccer team in striped blue and white kits poses for a group photo on the field\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field,\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, T\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, Tn\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, T\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, Th\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, The\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, The \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, The\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, Th\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, T\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, t\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, th\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the m\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the mi\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the mid\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the midd\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middl\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle p\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle pl\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle pla\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle play\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle playe\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle player\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle player \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle player\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle playe\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle play\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle pla\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle pl\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle p\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middle\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the middl\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the midd\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the mid\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the mi\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the m\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, th\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, t\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, th\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the b\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the ba\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the bac\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the back\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the back \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the back\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the bac\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the ba\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the b\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the c\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the ce\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the cen\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the cent\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the cente\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center p\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center pl\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center pla\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center plal\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center plaly\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center plal\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center pla\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center play\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center playe\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player s\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player st\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player sta\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player stan\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player stand\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standi\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standin\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing i\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in t\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in th\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the b\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the ba\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the bac\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back r\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back ro\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row i\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is w\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wa\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is war\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wa\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is w\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is we\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wea\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wear\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is weari\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearin\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a g\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a gr\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a gre\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a gree\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green s\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green sh\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shi\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shir\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt,\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, a\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, an\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and t\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and th\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and the\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and ther\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there i\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a c\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a cr\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a cro\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crow\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crow \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crow\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd o\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd on\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd o\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of p\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of pe\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of peo\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of peop\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of peopl\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people w\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people wa\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people wat\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watc\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watch\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watchi\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watchin\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching b\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching be\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching beh\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behi\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behin\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behinf\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behinf \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behinf t\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behinf th\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behinf t\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behinf \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behinf\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behinfd\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behinfd \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behinfd\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behinf\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behin\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behind\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behind \n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behind t\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behind th\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behind the\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behind them\n",
+        "A soccer team in striped blue and white kits poses for a group photo on the field, the center player standing in the back row is wearing a green shirt, and there is a crowd of people watching behind them.\n"
+      ],
+      "startDate": "Mon Nov 13 2023 16:03:04 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909384173,
+      "start_description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
+      "timeSpent": 3.9869,
+      "trial_number": 2
+    },
+    {
+      "HitCorrect": "0",
+      "botresponse": "Jessica",
+      "category": "shopping",
+      "checkbox": false,
+      "comments": "",
+      "deltas": [
+        {
+          "ops": [
+            {
+              "retain": 60
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 61
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 62
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 63
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 64
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 65
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 66
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 67
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 68
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 69
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 70
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 71
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 71
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 71
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 72
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 73
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 74
+            },
+            {
+              "insert": "f"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 75
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 76
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 77
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 78
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 79
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 80
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 81
+            },
+            {
+              "insert": "k"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 82
+            },
+            {
+              "insert": "y"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 83
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "insert": "b"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 85
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 86
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 87
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 92
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 93
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        }
+      ],
+      "endTime": 1699909623387,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+      "glb_comments": "",
+      "languages": "English, Bengali",
+      "picture": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+      "prolific_id": "611ee12b0e9abaefd865f415",
+      "reactionTime": 18734,
+      "sequential_change": [
+        "A woman with tousled hair sits on a rock in a desert setting , gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting w, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting wi, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting wit, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with , gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a , gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a h, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hi, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hin, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hin , gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hin, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint , gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint o, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of , gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of t, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of th, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the , gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the s, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sk, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky , gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky b, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky be, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky beh, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behi, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behin, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind , gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind h, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind he, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+        "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n"
+      ],
+      "startDate": "Mon Nov 13 2023 16:03:04 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909384173,
+      "start_description": "A woman with tousled hair sits on a rock in a desert setting, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
+      "timeSpent": 3.9869,
+      "trial_number": 3
+    },
+    {
+      "HitCorrect": "0",
+      "botresponse": "Jessica",
+      "category": "travel",
+      "checkbox": false,
+      "comments": "",
+      "deltas": [
+        {
+          "ops": [
+            {
+              "retain": 64
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 64
+            },
+            {
+              "insert": ","
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 65
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 66
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 67
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 68
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 69
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 70
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 71
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 72
+            },
+            {
+              "insert": "v"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 73
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 74
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 75
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 75
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 75
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 76
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 77
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 78
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 79
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 80
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 81
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 82
+            },
+            {
+              "insert": "p"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 83
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 85
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 86
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 87
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "insert": "f"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 92
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 93
+            },
+            {
+              "insert": "m"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 94
+            },
+            {
+              "insert": "m"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 95
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 96
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 97
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 98
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 99
+            },
+            {
+              "insert": "f"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 100
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 101
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 102
+            },
+            {
+              "insert": "p"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 103
+            },
+            {
+              "insert": "p"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 104
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 105
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 106
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 107
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 108
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 109
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 110
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 111
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 112
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 113
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 114
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 115
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 115
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 115
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 116
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 117
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 118
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 119
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 120
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 121
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 122
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 123
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 124
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 125
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 126
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 127
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 128
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 129
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 130
+            },
+            {
+              "insert": "x"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 131
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 132
+            },
+            {
+              "insert": "y"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 132
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 131
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 131
+            },
+            {
+              "insert": "y"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 132
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 133
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 134
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 135
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 136
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 137
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 138
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 139
+            },
+            {
+              "insert": "k"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 140
+            },
+            {
+              "insert": "."
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 141
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 142
+            },
+            {
+              "insert": "T"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 143
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 144
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 145
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 146
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 147
+            },
+            {
+              "insert": "m"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 148
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 149
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 150
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 150
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 150
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 151
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 152
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 153
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 154
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 155
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 156
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 157
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 158
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 159
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 159
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 159
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 160
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 161
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 162
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 163
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 164
+            },
+            {
+              "insert": "b"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 165
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 166
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 167
+            },
+            {
+              "insert": "u"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 168
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 169
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 170
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 171
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 172
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 173
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 174
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 175
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 176
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 177
+            },
+            {
+              "insert": "."
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 178
+            },
+            {
+              "insert": " "
+            }
+          ]
+        }
+      ],
+      "endTime": 1699909623387,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater. \n",
+      "glb_comments": "",
+      "languages": "English, Bengali",
+      "picture": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+      "prolific_id": "611ee12b0e9abaefd865f415",
+      "reactionTime": 36567,
+      "sequential_change": [
+        "A diver explores a sunken shipwreck near a coral reef underwater\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater,\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, t\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, th\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the d\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the di\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the div\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the dive\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver h\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver ha\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a p\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pa\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pai\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair o\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair os\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair o\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of s\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of sw\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swi\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swim\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimm\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimmi\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimmin\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming f\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming fl\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming fli\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flip\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flipp\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippe\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flipper\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers o\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on a\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on an\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and s\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and i\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is w\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is we\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wea\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wear\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is weari\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearin\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing a\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an o\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an ox\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxh\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxhy\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxh\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an ox\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxy\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxyg\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxyge\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen t\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen ta\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tan\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank.\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. T\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. Th\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The i\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The im\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The ima\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The imag\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The imagi\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The imag\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image i\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is s\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is sh\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is sho\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is show\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is showi\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is show\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown t\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to b\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be \n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be u\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be un\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be und\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be unde\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be under\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underw\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwa\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwat\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwate\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.\n",
+        "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater. \n"
+      ],
+      "startDate": "Mon Nov 13 2023 16:03:04 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909384173,
+      "start_description": "A diver explores a sunken shipwreck near a coral reef underwater.",
+      "timeSpent": 3.9869,
+      "trial_number": 4
+    },
+    {
+      "HitCorrect": "0",
+      "botresponse": "Jessica",
+      "category": "shopping",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909623387,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.\n",
+      "glb_comments": "",
+      "languages": "English, Bengali",
+      "picture": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+      "prolific_id": "611ee12b0e9abaefd865f415",
+      "reactionTime": 12176,
+      "startDate": "Mon Nov 13 2023 16:03:04 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909384173,
+      "start_description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
+      "timeSpent": 3.9869,
+      "trial_number": 5
+    },
+    {
+      "HitCorrect": "0",
+      "botresponse": "Jessica",
+      "category": "shopping",
+      "checkbox": false,
+      "comments": "",
+      "deltas": [
+        {
+          "ops": [
+            {
+              "retain": 2
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 3
+            },
+            {
+              "insert": "u"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 4
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 5
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 6
+            },
+            {
+              "insert": "y"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 7
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 8
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 9
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 10
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 11
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 12
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 13
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 14
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 24
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 25
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 26
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 27
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 28
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 29
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 30
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 31
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 32
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 33
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 34
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 35
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 36
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 37
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 38
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 39
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 40
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 41
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 42
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 43
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 44
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 45
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 46
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 47
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 48
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 49
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 50
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        }
+      ],
+      "endTime": 1699909623387,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A curly haired performer with large golden earrings sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+      "glb_comments": "",
+      "languages": "English, Bengali",
+      "picture": "images/social_media/54183.jpg",
+      "prolific_id": "611ee12b0e9abaefd865f415",
+      "reactionTime": 32537,
+      "sequential_change": [
+        "A cperformer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A cuperformer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curperformer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curlperformer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curlyperformer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly hperformer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haperformer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haiperformer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly hairperformer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haireperformer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly hairedperformer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer  sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer w sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer wi sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer wit sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with  sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with l sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with la sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with lar sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with larg sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large  sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large g sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large go sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large gol sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large gold sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large golde sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large golden sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large golden  sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large golden e sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large golden ea sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large golden ear sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large golden earr sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large golden earri sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large golden earrin sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large golden earring sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n",
+        "A curly haired performer with large golden earrings sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.\n"
+      ],
+      "startDate": "Mon Nov 13 2023 16:03:04 GMT-0500 (Eastern Standard Time)",
+      "startTime": 1699909384173,
+      "start_description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.",
+      "timeSpent": 3.9869,
+      "trial_number": 6
+    }
+  ],
+  "-Nj9VhEN5uSbAYgTNT5q": [
+    {
+      "HitCorrect": "1",
+      "botresponse": "Patricia",
+      "category": "shopping",
+      "checkbox": true,
+      "comments": "A \"group of young people\"",
+      "endTime": 1699909652249,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.\n",
+      "glb_comments": "This was fun, and went without any issues.",
+      "languages": "English",
+      "picture": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+      "prolific_id": "63d53c0cab4782e305e343c4",
+      "reactionTime": 39586,
+      "startDate": "Mon Nov 13 2023 15:03:46 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909426391,
+      "start_description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
+      "timeSpent": 3.7643,
+      "trial_number": 1
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Patricia",
+      "category": "shopping",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909652249,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A person in a red and white suit is water skiing on a river, creating a spray of water.\n",
+      "glb_comments": "This was fun, and went without any issues.",
+      "languages": "English",
+      "picture": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+      "prolific_id": "63d53c0cab4782e305e343c4",
+      "reactionTime": 9551,
+      "startDate": "Mon Nov 13 2023 15:03:46 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909426391,
+      "start_description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
+      "timeSpent": 3.7643,
+      "trial_number": 2
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Patricia",
+      "category": "science_journals",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909652249,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.\n",
+      "glb_comments": "This was fun, and went without any issues.",
+      "languages": "English",
+      "picture": "images/science_journals/Common_stingray_tenerife.jpeg",
+      "prolific_id": "63d53c0cab4782e305e343c4",
+      "reactionTime": 8847,
+      "startDate": "Mon Nov 13 2023 15:03:46 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909426391,
+      "start_description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+      "timeSpent": 3.7643,
+      "trial_number": 3
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Patricia",
+      "category": "shopping",
+      "checkbox": true,
+      "comments": "A \"beautiful model\"\n",
+      "endTime": 1699909652249,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A smiling woman with blonde bob haircut, wearing a red dress.\n",
+      "glb_comments": "This was fun, and went without any issues.",
+      "languages": "English",
+      "picture": "images/social_media/Heidi_Klum4crop.jpeg",
+      "prolific_id": "63d53c0cab4782e305e343c4",
+      "reactionTime": 33611,
+      "startDate": "Mon Nov 13 2023 15:03:46 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909426391,
+      "start_description": "A smiling woman with blonde bob haircut, wearing a red dress.",
+      "timeSpent": 3.7643,
+      "trial_number": 4
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Patricia",
+      "category": "social_media",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909652249,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A colony of seals lounges on rocky terrain near the water's edge.\n",
+      "glb_comments": "This was fun, and went without any issues.",
+      "languages": "English",
+      "picture": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+      "prolific_id": "63d53c0cab4782e305e343c4",
+      "reactionTime": 8015,
+      "startDate": "Mon Nov 13 2023 15:03:46 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909426391,
+      "start_description": "A colony of seals lounges on rocky terrain near the water's edge.",
+      "timeSpent": 3.7643,
+      "trial_number": 5
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Patricia",
+      "category": "health",
+      "checkbox": false,
+      "comments": "",
+      "deltas": [
+        {
+          "ops": [
+            {
+              "retain": 65
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 65
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 65
+            },
+            {
+              "insert": "k"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 66
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 67
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 68
+            },
+            {
+              "insert": "j"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 69
+            },
+            {
+              "insert": "k"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 70
+            },
+            {
+              "insert": "-"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 71
+            },
+            {
+              "insert": "b"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 72
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 73
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 74
+            },
+            {
+              "insert": "k"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 75
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 75
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 74
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 73
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 72
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 71
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 70
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 69
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 68
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 67
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 66
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 65
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 76
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 77
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 78
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 79
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 80
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 81
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 82
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 83
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 83
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 82
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 82
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 83
+            },
+            {
+              "insert": "x"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 85
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 86
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 87
+            },
+            {
+              "insert": "u"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 92
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 92
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 87
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 87
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 92
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 93
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 94
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 95
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 96
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 97
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 98
+            },
+            {
+              "insert": "m"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 99
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 100
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 101
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 102
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 103
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 104
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 105
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 106
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 107
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 108
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 109
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 110
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 111
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 112
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 113
+            },
+            {
+              "insert": "u"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 114
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 115
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 116
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        }
+      ],
+      "endTime": 1699909652249,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings and glutes, with other gym equipment and patrons in the background.\n",
+      "glb_comments": "This was fun, and went without any issues.",
+      "languages": "English",
+      "picture": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+      "prolific_id": "63d53c0cab4782e305e343c4",
+      "reactionTime": 61355,
+      "sequential_change": [
+        "A woman in a yellow tank top and black shorts is exercising on a hgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kigym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjkgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjk-gym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjk-bgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjk-bagym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjk-bacgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjk-backgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjk-back gym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjk-backgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjk-bacgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjk-bagym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjk-bgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjk-gym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjkgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicjgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kicgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kigym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a kgym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine , with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine t, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine th, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine tha, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that , with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that w, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that wo, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that wor, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that wo, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that w, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that , with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that e, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that ex, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exe, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exer, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exerc, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercu, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercui, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercuis, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercuise, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercuises, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercuises , with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercuises, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercuise, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercuis, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercui, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercu, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exerc, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exerci, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercis, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercise, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises , with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises t, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises th, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the , with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the h, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the ha, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the ham, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hams, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamst, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstr, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstri, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrin, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstring, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings , with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings a, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings an, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings and, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings and , with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings and g, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings and gl, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings and glu, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings and glut, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings and glute, with other gym equipment and patrons in the background.\n",
+        "A woman in a yellow tank top and black shorts is exercising on a gym machine that exercises the hamstrings and glutes, with other gym equipment and patrons in the background.\n"
+      ],
+      "startDate": "Mon Nov 13 2023 15:03:46 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909426391,
+      "start_description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
+      "timeSpent": 3.7643,
+      "trial_number": 6
+    }
+  ],
+  "-Nj9X02rCFj9-5VCNp7H": [
+    {
+      "HitCorrect": "1",
+      "botresponse": "Jessica",
+      "category": "social_media",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909996944,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/shopping/Green_brocade_silk_saree.jpeg",
+      "prolific_id": "574ce0a57fd0ec000db73aa6",
+      "reactionTime": 19794,
+      "startDate": "Mon Nov 13 2023 15:03:56 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909436100,
+      "start_description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
+      "timeSpent": 9.3474,
+      "trial_number": 1
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Jessica",
+      "category": "shopping",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909996944,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A soccer team in striped blue and white kits poses for a group photo on the field.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+      "prolific_id": "574ce0a57fd0ec000db73aa6",
+      "reactionTime": 13989,
+      "startDate": "Mon Nov 13 2023 15:03:56 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909436100,
+      "start_description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
+      "timeSpent": 9.3474,
+      "trial_number": 2
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Jessica",
+      "category": "shopping",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909996944,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A person in a red and white suit is water skiing on a river, creating a spray of water.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+      "prolific_id": "574ce0a57fd0ec000db73aa6",
+      "reactionTime": 9257,
+      "startDate": "Mon Nov 13 2023 15:03:56 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909436100,
+      "start_description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
+      "timeSpent": 9.3474,
+      "trial_number": 3
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Jessica",
+      "category": "health",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909996944,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A bowl of Asian noodle salad with vegetables and herbs.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/health/2456.jpg",
+      "prolific_id": "574ce0a57fd0ec000db73aa6",
+      "reactionTime": 39141,
+      "startDate": "Mon Nov 13 2023 15:03:56 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909436100,
+      "start_description": "A bowl of Asian noodle salad with vegetables and herbs.",
+      "timeSpent": 9.3474,
+      "trial_number": 4
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Jessica",
+      "category": "science_journals",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699909996944,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/science_journals/Common_stingray_tenerife.jpeg",
+      "prolific_id": "574ce0a57fd0ec000db73aa6",
+      "reactionTime": 8424,
+      "startDate": "Mon Nov 13 2023 15:03:56 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909436100,
+      "start_description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+      "timeSpent": 9.3474,
+      "trial_number": 5
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Jessica",
+      "category": "shopping",
+      "checkbox": true,
+      "comments": "A woman with tousled hair sits on a rock in a sandy setting, either a beach or desert, gazing to the side. She wears a white knitted sweater and ripped jeans, with the sun casting a warm glow.",
+      "endTime": 1699909996944,
+      "enjoyment": "1",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A woman with tousled hair sits on a rock in a desert setting, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.\n",
+      "glb_comments": "",
+      "languages": "English",
+      "picture": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+      "prolific_id": "574ce0a57fd0ec000db73aa6",
+      "reactionTime": 117146,
+      "startDate": "Mon Nov 13 2023 15:03:56 GMT-0600 (Central Standard Time)",
+      "startTime": 1699909436100,
+      "start_description": "A woman with tousled hair sits on a rock in a desert setting, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
+      "timeSpent": 9.3474,
+      "trial_number": 6
+    }
   ]
 }
