@@ -14,101 +14,35 @@ exp.customize = function() {
     ];
 
     imageSeenBefore = [];
+    health = [];
 
     main_trials = _.shuffle(main_trials)[0]
 
-    health = [];
+    console.log("Main trials ", main_trials)
 
-    for (let i = 0; i < main_trials.length; i++) {
-        if (main_trials[i]['category'] == 'health') {
-            health.push(main_trials[i])
-        }
-    }
+    health.push(main_trials[0]);
 
-    health = _.sampleSize(health, 1);
+    console.log("Health ", health)
 
     imageSeenBefore.push(health[0]['filename']);
 
-//    console.log("image seen before ", imageSeenBefore)
-
-//    console.log("Health ", health)
-
-    news_journals = [];
+    console.log("Image seen before ", imageSeenBefore)
 
     for (let i = 0; i < main_trials.length; i++) {
-        if (main_trials[i]['category'] == 'news' && !imageSeenBefore.includes(main_trials[i]['filename'])) {
-            news_journals.push(main_trials[i])
+        if (!imageSeenBefore.includes(main_trials[i]['filename'])) {
+            health.push(main_trials[i])
+
+            imageSeenBefore.push(main_trials[i]['filename']);
         }
     }
 
-//    console.log("News journals ", news_journals)
+    health = _.sampleSize(health, 6);
+    // Randomly sample 6 of these
 
-    news_journals = _.sampleSize(news_journals, 1);
-
-    imageSeenBefore.push(news_journals[0]['filename']);
-
-//    console.log("news journals ", news_journals)
-
-    science_journals = [];
-
-    for (let i = 0; i < main_trials.length; i++) {
-        if (main_trials[i]['category'] == 'science_journals' && !imageSeenBefore.includes(main_trials[i]['filename'])) {
-            science_journals.push(main_trials[i])
-        }
-    }
-
-//    console.log("Science journals ", science_journals)
-
-    science_journals = _.sampleSize(science_journals, 1);
-    imageSeenBefore.push(science_journals[0]['filename']);
-
-    travel = [];
-
-    for (let i = 0; i < main_trials.length; i++) {
-        if (main_trials[i]['category'] == 'travel' && !imageSeenBefore.includes(main_trials[i]['filename'])) {
-            travel.push(main_trials[i])
-        }
-    }
-
-//    console.log("travel ", travel)
-
-    travel = _.sampleSize(travel, 1);
-
-    imageSeenBefore.push(travel[0]['filename']);
-
-    shopping = [];
-
-    for (let i = 0; i < main_trials.length; i++) {
-        if (main_trials[i]['category'] == 'shopping' && !imageSeenBefore.includes(main_trials[i]['filename'])) {
-            shopping.push(main_trials[i])
-        }
-    }
-
-//    console.log("shopping ", shopping)
-
-    shopping = _.sampleSize(shopping, 1);
-
-    imageSeenBefore.push(shopping[0]['filename']);
-
-    social_media = [];
-
-    for (let i = 0; i < main_trials.length; i++) {
-        if (main_trials[i]['category'] == 'social_media' && !imageSeenBefore.includes(main_trials[i]['filename'])) {
-            social_media.push(main_trials[i])
-        }
-    }
-
-    social_media = _.sampleSize(social_media, 1);
-//    console.log('social_media chosen ', social_media)    
+    console.log("Health ", health)
 
     main_trials.length = 0
     main_trials.push(...health)
-    main_trials.push(...news_journals)
-    main_trials.push(...science_journals)
-    main_trials.push(...travel)
-    main_trials.push(...shopping)
-    main_trials.push(...social_media)
-
 
     // randomize main trial order, but keep practice trial order fixed
     this.trial_info.main_trials = _.shuffle(main_trials);
