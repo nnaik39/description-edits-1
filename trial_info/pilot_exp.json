@@ -21,16 +21,6 @@ var main_trials = {
             "category": "travel"
         },
         {
-            "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-            "description": "A diver explores a sunken shipwreck near a coral reef underwater.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-            "description": "A diver explores a sunken shipwreck near a coral reef underwater.",
-            "category": "shopping"
-        },
-        {
             "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
             "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
             "category": "science_journals"
@@ -41,56 +31,6 @@ var main_trials = {
             "category": "news"
         },
         {
-            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
-            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
-            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
-            "category": "news"
-        },
-        {
-            "filename": "images/social_media/54183.jpg",
-            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/social_media/54183.jpg",
-            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background.",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
-            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and boots.",
-            "category": "news"
-        },
-        {
-            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
-            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and boots.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
-            "description": "A colony of seals lounges on rocky terrain near the water's edge.",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
-            "description": "A colony of seals lounges on rocky terrain near the water's edge.",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
-            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
-            "category": "news"
-        },
-        {
-            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
-            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
-            "category": "science_journals"
-        },
-        {
             "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
             "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch.",
             "category": "science_journals"
@@ -99,6 +39,6 @@ var main_trials = {
             "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
             "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch.",
             "category": "news"
-        }
+        },
     ]
 }

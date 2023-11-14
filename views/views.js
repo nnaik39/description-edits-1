@@ -77,7 +77,7 @@ var intro = {
     title: "Stanford NLP Lab",
     // introduction text
     text:
-        "Thank you for participating in our study. In this study, you will see six descriptions paired with an image. For each image description, you will propose edits to the description to help another user understand the image better. The whole study should take about 6 minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
+        "Thank you for participating in our study. In this study, you will see four descriptions paired with an image. For each image description, you will propose edits to the description to help another user understand the image better. The whole study should take about 6 minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
     legal_info:
         "<strong>LEGAL INFORMATION</strong>:<br><br>We invite you to participate in a research study on language production and comprehension.<br>Your experimenter will ask you to do a linguistic task such as reading sentences or words, naming pictures or describing scenes, making up sentences of your own, or participating in a simple language game.<br><br>You will be paid for your participation at the posted rate.<br><br>There are no risks or benefits of any kind involved in this study.<br><br>If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. You have the right to refuse to do particular tasks. Your individual privacy will be maintained in all published and written data resulting from the study.<br>You may print this form for your records.<br><br>CONTACT INFORMATION:<br>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director Christopher Potts at (650) 723-4284. <br>If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-2480 or toll free at 1-866-680-2906. You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306 USA.<br><br>If you agree to participate, please proceed to the study tasks.",
     // introduction's slide proceeding button text
@@ -139,7 +139,7 @@ var instruction_screen = {
     title: "Instructions",
     text:
         "<strong>Online images</strong> can be a useful resource, but there are cases where someone else <strong>cannot directly see</strong> the image—for instance, if they have a visual impairment or if they're browsing a speech-enabled website where the site content is narrated.",
-    paragraph2: "In this study, we’re investigating what descriptions might help people who cannot see the image. You’ll see six <strong>image descriptions</strong>, each paired with an image. You’ll be asked to <strong> propose edits </strong> to the description to make the description more helpful to another user.",
+    paragraph2: "In this study, we’re investigating what descriptions might help people who cannot see the image. You’ll see four <strong>image descriptions</strong>, each paired with an image. You’ll be asked to <strong> propose edits </strong> to the description to make the description more helpful to another user.",
     readyText: "Are you ready?",
     buttonText: "Begin experiment",
     // render function renders the view
@@ -382,7 +382,7 @@ var main = {
 
         console.log("starting time ", startingTime)
     },
-    trials: 6
+    trials: 4
 };
 
 var postTest = {
