@@ -61,7 +61,7 @@ for i in pilot_exp['images']:
 
 images_left = list(set(images_left))
 print("Number of images left ", len(images_left))
-##print("Descriptions per image ", descriptions_per_image)
+print("Descriptions per image ", descriptions_per_image)
 
 # If it's seen 3 times, then take it out from pilot_exp.json
 # And then push pilot_exp.json!!!
