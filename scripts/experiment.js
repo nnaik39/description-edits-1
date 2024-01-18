@@ -37,7 +37,7 @@ exp.customize = function() {
     }
 
     health = _.sampleSize(health, 6);
-    // Randomly sample 6 of these
+    // Randomly sample 6 unique images here
 
     console.log("Health ", health)
 
@@ -50,15 +50,6 @@ exp.customize = function() {
     console.log(main_trials.length);
     console.log(this.trial_info.main_trials);
 
-    // sample question order
-    shopping = "Why did this image appear within this context?"
-    travel = "You are browsing a <strong> travel website</strong>, with the goal of traveling to a new location."
-    social_media = "You are browsing <strong> social media</strong>, with the goal of learning more about your connections."
-    health = "You are browsing a <strong> health website</strong>, with the goal of learning how to live a healthier lifestyle."
-    science_journals = "You are browsing <strong>science magazines</strong> (such as National Geographic), with the goal of learning more about recent science developments."
-    news_journals = "You are browsing <strong>news websites</strong> (such as New York Times), with the goal of learning more about recent news developments."
-
-    questions = _.shuffle([health, shopping, travel, social_media, science_journals, news_journals])
     // adds progress bars to the views listed
     // view's name is the same as object's name
     this.progress_bar_in = ["main"];

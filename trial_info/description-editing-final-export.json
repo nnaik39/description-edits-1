@@ -76378,5 +76378,1517 @@
       "timeSpent": 12.63175,
       "trial_number": 6
     }
+  ],
+  "-NjDgQgnYop8L6J1zNMP": [
+    {
+      "HitCorrect": "1",
+      "botresponse": "Jessica",
+      "category": "news",
+      "checkbox": false,
+      "comments": "",
+      "deltas": [
+        {
+          "ops": [
+            {
+              "retain": 2
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 3
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 4
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 5
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 6
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 7
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 8
+            },
+            {
+              "insert": "m"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 9
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 9
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        }
+      ],
+      "endTime": 1699979836341,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A handsome bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+      "glb_comments": "",
+      "languages": "englist",
+      "picture": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+      "prolific_id": "651eb3bc379e71c4df3b95a7",
+      "reactionTime": 47759,
+      "sequential_change": [
+        "A hbald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A habald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A hanbald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handbald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsbald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsobald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsombald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsom bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsome bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n"
+      ],
+      "startDate": "Tue Nov 14 2023 08:34:56 GMT-0800 (Pacific Standard Time)",
+      "startTime": 1699979696519,
+      "start_description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.",
+      "timeSpent": 2.3303666666666665,
+      "trial_number": 1
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Jessica",
+      "category": "science_journals",
+      "checkbox": false,
+      "comments": "",
+      "deltas": [
+        {
+          "ops": [
+            {
+              "retain": 102
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 102
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 103
+            },
+            {
+              "insert": "u"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 104
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 105
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 106
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 107
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 108
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 109
+            },
+            {
+              "insert": "w"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 110
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 111
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 112
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 113
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 114
+            },
+            {
+              "insert": "."
+            }
+          ]
+        }
+      ],
+      "endTime": 1699979836341,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.\n",
+      "glb_comments": "",
+      "languages": "englist",
+      "picture": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+      "prolific_id": "651eb3bc379e71c4df3b95a7",
+      "reactionTime": 16784,
+      "sequential_change": [
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch\n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch \n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch u\n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch un\n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch und\n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch unde\n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under\n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under \n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under w\n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under wa\n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under wat\n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under wate\n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water\n",
+        "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.\n"
+      ],
+      "startDate": "Tue Nov 14 2023 08:34:56 GMT-0800 (Pacific Standard Time)",
+      "startTime": 1699979696519,
+      "start_description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch.",
+      "timeSpent": 2.3303666666666665,
+      "trial_number": 2
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Jessica",
+      "category": "health",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699979836341,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A group of people of various ages walking in line along a grassy path, with trees on one side.\n",
+      "glb_comments": "",
+      "languages": "englist",
+      "picture": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+      "prolific_id": "651eb3bc379e71c4df3b95a7",
+      "reactionTime": 8705,
+      "startDate": "Tue Nov 14 2023 08:34:56 GMT-0800 (Pacific Standard Time)",
+      "startTime": 1699979696519,
+      "start_description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+      "timeSpent": 2.3303666666666665,
+      "trial_number": 3
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Jessica",
+      "category": "science_journals",
+      "checkbox": false,
+      "comments": "",
+      "deltas": [
+        {
+          "ops": [
+            {
+              "retain": 77
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 78
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 79
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 80
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 81
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 82
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 83
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "insert": "k"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 85
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 86
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 87
+            },
+            {
+              "insert": "p"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 88
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 89
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 90
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 91
+            },
+            {
+              "insert": " "
+            }
+          ]
+        }
+      ],
+      "endTime": 1699979836341,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "An astronaut in a white space suit floats in space with Earth's blue horizon and dark space in the background.\n",
+      "glb_comments": "",
+      "languages": "englist",
+      "picture": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+      "prolific_id": "651eb3bc379e71c4df3b95a7",
+      "reactionTime": 17170,
+      "sequential_change": [
+        "An astronaut in a white space suit floats in space with Earth's blue horizon ain the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon anin the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon andin the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and in the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and din the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and dain the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and darin the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and darkin the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and dark in the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and dark sin the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and dark spin the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and dark spain the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and dark spacin the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and dark spacein the background.\n",
+        "An astronaut in a white space suit floats in space with Earth's blue horizon and dark space in the background.\n"
+      ],
+      "startDate": "Tue Nov 14 2023 08:34:56 GMT-0800 (Pacific Standard Time)",
+      "startTime": 1699979696519,
+      "start_description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+      "timeSpent": 2.3303666666666665,
+      "trial_number": 4
+    }
+  ],
+  "-NjDpLyKMXINfaA77VKu": [
+    {
+      "HitCorrect": "1",
+      "botresponse": "Mary",
+      "category": "health",
+      "checkbox": false,
+      "comments": "",
+      "deltas": [
+        {
+          "ops": [
+            {
+              "retain": 33
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 34
+            },
+            {
+              "insert": "b"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 35
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 36
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 37
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 38
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 39
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 40
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 41
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 42
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 43
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 44
+            },
+            {
+              "insert": "b"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 45
+            },
+            {
+              "insert": "y"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 46
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 47
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 48
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 49
+            },
+            {
+              "insert": "p"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 50
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 51
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 52
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 53
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 54
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 55
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 56
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 57
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 58
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 59
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 60
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 61
+            },
+            {
+              "insert": "r"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 62
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 63
+            },
+            {
+              "insert": "f"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 64
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 65
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 66
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 67
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 68
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 69
+            },
+            {
+              "insert": "v"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 70
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 71
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 72
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 73
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 74
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 75
+            },
+            {
+              "insert": "t"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 76
+            },
+            {
+              "insert": ","
+            }
+          ]
+        }
+      ],
+      "endTime": 1699982177261,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A group of people of various ages being led by a person in a reflective coat, walking in line along a grassy path, with trees on one side.\n",
+      "glb_comments": "None",
+      "languages": "English",
+      "picture": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+      "prolific_id": "626af8ea8c93e250e03bfaa6",
+      "reactionTime": 61539,
+      "sequential_change": [
+        "A group of people of various ages  walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages b walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages be walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages bei walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages bein walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being  walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being l walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being le walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led  walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led b walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by  walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a  walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a p walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a pe walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a per walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a pers walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a perso walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person  walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person i walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in  walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a  walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a r walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a re walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a ref walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a refl walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a refle walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a reflec walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a reflect walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a reflecti walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a reflectiv walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a reflective walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a reflective  walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a reflective c walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a reflective co walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a reflective coa walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a reflective coat walking in line along a grassy path, with trees on one side.\n",
+        "A group of people of various ages being led by a person in a reflective coat, walking in line along a grassy path, with trees on one side.\n"
+      ],
+      "startDate": "Tue Nov 14 2023 09:12:17 GMT-0800 (Pacific Standard Time)",
+      "startTime": 1699981937776,
+      "start_description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+      "timeSpent": 3.991416666666667,
+      "trial_number": 1
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Mary",
+      "category": "science_journals",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699982177261,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch.\n",
+      "glb_comments": "None",
+      "languages": "English",
+      "picture": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+      "prolific_id": "626af8ea8c93e250e03bfaa6",
+      "reactionTime": 11873,
+      "startDate": "Tue Nov 14 2023 09:12:17 GMT-0800 (Pacific Standard Time)",
+      "startTime": 1699981937776,
+      "start_description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch.",
+      "timeSpent": 3.991416666666667,
+      "trial_number": 2
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Mary",
+      "category": "science_journals",
+      "checkbox": true,
+      "comments": "",
+      "endTime": 1699982177261,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.\n",
+      "glb_comments": "None",
+      "languages": "English",
+      "picture": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+      "prolific_id": "626af8ea8c93e250e03bfaa6",
+      "reactionTime": 10986,
+      "startDate": "Tue Nov 14 2023 09:12:17 GMT-0800 (Pacific Standard Time)",
+      "startTime": 1699981937776,
+      "start_description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+      "timeSpent": 3.991416666666667,
+      "trial_number": 3
+    },
+    {
+      "HitCorrect": "1",
+      "botresponse": "Mary",
+      "category": "news",
+      "checkbox": false,
+      "comments": "",
+      "deltas": [
+        {
+          "ops": [
+            {
+              "retain": 73
+            },
+            {
+              "insert": "b"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 74
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 75
+            },
+            {
+              "insert": "i"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 76
+            },
+            {
+              "insert": "g"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 77
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 78
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 84
+            },
+            {
+              "insert": ","
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 7
+            },
+            {
+              "insert": "b"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 8
+            },
+            {
+              "insert": "l"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 9
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 10
+            },
+            {
+              "insert": "c"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 11
+            },
+            {
+              "insert": "k"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 12
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 2
+            },
+            {
+              "insert": "H"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 3
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 4
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 5
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 6
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 6
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 5
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 4
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 3
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 2
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 2
+            },
+            {
+              "insert": "h"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 3
+            },
+            {
+              "insert": "a"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 4
+            },
+            {
+              "insert": "n"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 5
+            },
+            {
+              "insert": "d"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 6
+            },
+            {
+              "insert": "s"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 7
+            },
+            {
+              "insert": "o"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 8
+            },
+            {
+              "insert": "m"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 9
+            },
+            {
+              "insert": "e"
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 10
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 11
+            },
+            {
+              "insert": ","
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 11
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 10
+            },
+            {
+              "delete": 1
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 10
+            },
+            {
+              "insert": ","
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 11
+            },
+            {
+              "insert": " "
+            }
+          ]
+        },
+        {
+          "ops": [
+            {
+              "retain": 16
+            },
+            {
+              "insert": ","
+            }
+          ]
+        }
+      ],
+      "endTime": 1699982177261,
+      "enjoyment": "2",
+      "experiment_id": "description-editing-final.json",
+      "final_description": "A handsome, bald, black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+      "glb_comments": "None",
+      "languages": "English",
+      "picture": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+      "prolific_id": "626af8ea8c93e250e03bfaa6",
+      "reactionTime": 83306,
+      "sequential_change": [
+        "A bald man with a defined jawline and a slight smile, wearing a collared bshirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald man with a defined jawline and a slight smile, wearing a collared beshirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald man with a defined jawline and a slight smile, wearing a collared beishirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald man with a defined jawline and a slight smile, wearing a collared beigshirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald man with a defined jawline and a slight smile, wearing a collared beigeshirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald man with a defined jawline and a slight smile, wearing a collared beige shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald bman with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald blman with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald blaman with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald blacman with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald blackman with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A Hbald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A Habald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A Hanbald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A Handbald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A Handsbald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A Handbald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A Hanbald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A Habald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A Hbald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A bald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A hbald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A habald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A hanbald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handbald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsbald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsobald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsombald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsomebald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsome bald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsome ,bald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsome bald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsomebald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsome,bald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsome, bald black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n",
+        "A handsome, bald, black man with a defined jawline and a slight smile, wearing a collared beige shirt, under a gray jacket. He has a confident demeanor, with a dark backdrop.\n"
+      ],
+      "startDate": "Tue Nov 14 2023 09:12:17 GMT-0800 (Pacific Standard Time)",
+      "startTime": 1699981937776,
+      "start_description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop.",
+      "timeSpent": 3.991416666666667,
+      "trial_number": 4
+    }
   ]
 }
