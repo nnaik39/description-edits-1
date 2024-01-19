@@ -5,40 +5,16 @@ var main_trials = {
             "description": "Two taekwondo athletes in mid-fight; one is executing a high kick to the head of the opponent."
         },
         {
-            "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-            "description": "A large crystal ball stands in a lush garden with flowers and a rustic wooden fence in the background."
-        },
-        {
             "filename": "images/Blacksmoker_in_Atlantic_Ocean.jpg",
             "description": "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a plume of mineral-rich water."
-        },
-        {
-            "filename": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
-            "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter."
-        },
-        {
-            "filename": "images/Bellagio_Las_Vegas_December_2013_panorama.jpeg",
-            "description": "A panoramic night view of lit-up Las Vegas hotels and a casino fronting a reflective water body."
         },
         {
             "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
             "description": "A scientist in a lab coat and hairnet is using a pipette and lab equipment near a window."
         },
         {
-            "filename": "images/Aerial_view_-_Presidio-whole.jpg",
-            "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay."
-        },
-        {
-            "filename": "images/Drug_ampoule_JPN.jpeg",
-            "description": "Several medical ampoules of different sizes and colors arranged on a white surface."
-        },
-        {
             "filename": "images/440px-Lazada_Laguna_warehouse.jpeg",
             "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods."
-        },
-        {
-            "filename": "images/Bhekasana1.jpeg",
-            "description": "A woman is performing a yoga pose, 'Bhekasana,' lying on her stomach, bending her knees, and reaching back to touch her feet."
         },
         {
             "filename": "images/002-soymilk.jpeg",
@@ -49,20 +25,12 @@ var main_trials = {
             "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino."
         },
         {
-            "filename": "images/500px-Backzutaten_041.jpeg",
-            "description": "Ingredients and a cookbook on a kitchen counter, suggesting preparation for baking."
-        },
-        {
             "filename": "images/250px-Raphanus_sativus.jpeg",
             "description": "A bunch of fresh red radishes with green leaves and white roots."
         },
         {
             "filename": "images/Ludovic_and_Lauren_(8425515069).jpeg",
             "description": "Two runners, a man and a woman, are smiling and jogging in a race, wearing numbered bibs and athletic gear."
-        },
-        {
-            "filename": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
-            "description": "A woman performs on stage wearing a sparkling, jeweled black bodysuit, with her hair in motion."
         }
     ]
 }

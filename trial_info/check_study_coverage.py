@@ -52,7 +52,7 @@ for image in answers:
             'description': start_description_per_image[image]
         })
 
-print("Number of datapoints left: ", len(new_pilot_exp))
+print("Number of datapoints left: ", len(new_pilot_exp['images']))
 
 with open("new_pilot_exp.json", "w") as outfile:
     outfile.write(json.dumps(new_pilot_exp, indent = 4))
