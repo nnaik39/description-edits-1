@@ -1,12 +1,17 @@
-var main_trials = {
+{
     "images": [
-        {
-            "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
-            "description": "Two taekwondo athletes in mid-fight; one is executing a high kick to the head of the opponent."
-        },
         {
             "filename": "images/Blacksmoker_in_Atlantic_Ocean.jpg",
             "description": "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a plume of mineral-rich water."
+        },
+        {
+            "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+            "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino."
+        },
+
+        {
+            "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
+            "description": "Two taekwondo athletes in mid-fight; one is executing a high kick to the head of the opponent."
         },
         {
             "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
@@ -19,18 +24,6 @@ var main_trials = {
         {
             "filename": "images/002-soymilk.jpeg",
             "description": "A bottle of milk, a bowl of soybeans, and green pods on a wooden table, likely soy milk and its ingredients."
-        },
-        {
-            "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-            "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino."
-        },
-        {
-            "filename": "images/250px-Raphanus_sativus.jpeg",
-            "description": "A bunch of fresh red radishes with green leaves and white roots."
-        },
-        {
-            "filename": "images/Ludovic_and_Lauren_(8425515069).jpeg",
-            "description": "Two runners, a man and a woman, are smiling and jogging in a race, wearing numbered bibs and athletic gear."
         }
     ]
 }
