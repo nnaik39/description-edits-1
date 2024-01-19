@@ -1,223 +1,67 @@
 {
     "images": [
         {
-            "filename": "images/Korea-Boseong-Green.tea-09.jpg",
-            "category": "travel",
-            "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea."
-        },
-        {
             "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
-            "category": "news",
             "description": "Two taekwondo athletes in mid-fight; one is executing a high kick to the head of the opponent."
         },
         {
-            "filename": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
-            "category": "social_media",
-            "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight."
-        },
-        {
-            "filename": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
-            "category": "travel",
-            "description": "View from a shaded arcade showing a detailed historic building framed by archways against a blue sky."
-        },
-        {
             "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-            "category": "travel",
             "description": "A large crystal ball stands in a lush garden with flowers and a rustic wooden fence in the background."
         },
         {
-            "filename": "images/400px-Norman_Borlaug.jpeg",
-            "category": "science_journals",
-            "description": "An elderly man stands at a podium labeled 'Agricultural Science and Technology,' giving a speech."
-        },
-        {
-            "filename": "images/Gordon_Ramsay_cooking_(262930612).jpeg",
-            "category": "social_media",
-            "description": "Celebrity chef cooking in an outdoor kitchen surrounded by an audience, with a woman assisting him."
-        },
-        {
-            "filename": "images/Yam_mu_yo.jpeg",
-            "category": "social_media",
-            "description": "A plate of Thai yam mu yo salad with sliced sausage, onions, and herbs on a wooden table."
-        },
-        {
             "filename": "images/Blacksmoker_in_Atlantic_Ocean.jpg",
-            "category": "news",
             "description": "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a plume of mineral-rich water."
         },
         {
-            "filename": "images/Fruit_Stall_in_Barcelona_Market.jpeg",
-            "category": "shopping",
-            "description": "A colorful street fruit market with bananas, mangoes, oranges, and other fruits on display."
-        },
-        {
             "filename": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
-            "category": "health",
             "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter."
         },
         {
-            "filename": "images/Apollo_17_AS17-140-21497.jpeg",
-            "category": "science_journals",
-            "description": "An astronaut examines a large lunar rock on the moon's surface, with the desolate lunar landscape in the background."
-        },
-        {
-            "filename": "images/15718.jpg",
-            "category": "travel",
-            "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture."
-        },
-        {
-            "filename": "images/Dan_+_Shay_in_2017.jpeg",
-            "category": "social_media",
-            "description": "Two musicians are performing on stage, one singing into a microphone and the other playing guitar, with colorful stage lighting."
-        },
-        {
-            "filename": "images/Natural_foodstuff_004.jpeg",
-            "category": "shopping",
-            "description": "A colorful assortment of fresh fruits including apples, grapes, pears, nuts, lemons, and an orange pumpkin."
-        },
-        {
-            "filename": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
-            "category": "shopping",
-            "description": "A singer performs on stage in a black skirt, jacket, and thigh-high stockings, holding a microphone."
-        },
-        {
             "filename": "images/Bellagio_Las_Vegas_December_2013_panorama.jpeg",
-            "category": "travel",
             "description": "A panoramic night view of lit-up Las Vegas hotels and a casino fronting a reflective water body."
         },
         {
-            "filename": "images/San_Francisco_Bay_Wheels.jpg",
-            "category": "travel",
-            "description": "A row of rental bikes lined up on a city street with buildings and clear skies in the background."
-        },
-        {
-            "filename": "images/US_Navy_030124-N-1328C-510_Navy_dentist_treats_patients_aboard_ship.jpeg",
-            "category": "health",
-            "description": "A dentist and assistant are performing a procedure on a patient in a dental clinic."
-        },
-        {
             "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-            "category": "science_journals",
             "description": "A scientist in a lab coat and hairnet is using a pipette and lab equipment near a window."
         },
         {
-            "filename": "images/P-51_Mustang_edit1.jpeg",
-            "category": "science_journals",
-            "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below."
-        },
-        {
             "filename": "images/Aerial_view_-_Presidio-whole.jpg",
-            "category": "travel",
             "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay."
         },
         {
             "filename": "images/Drug_ampoule_JPN.jpeg",
-            "category": "science_journals",
             "description": "Several medical ampoules of different sizes and colors arranged on a white surface."
         },
         {
-            "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
-            "category": "shopping",
-            "description": "A group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane."
-        },
-        {
             "filename": "images/440px-Lazada_Laguna_warehouse.jpeg",
-            "category": "shopping",
             "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods."
         },
         {
-            "filename": "images/440px-Yoga_dog_(4045140609).jpeg",
-            "category": "social_media",
-            "description": "A French Bulldog dressed in a pink yoga outfit with a mat rolled up on its back, looking at the camera."
-        },
-        {
-            "filename": "images/Texas_Zip_liner_5430.jpeg",
-            "category": "travel",
-            "description": "A man in a red shirt and helmet is joyfully zip-lining against a backdrop of trees and sky."
-        },
-        {
-            "filename": "images/440px-Giant_Panda_Eating.jpg",
-            "category": "travel",
-            "description": "A giant panda is sitting and happily munching on bamboo leaves."
-        },
-        {
             "filename": "images/Bhekasana1.jpeg",
-            "category": "health",
             "description": "A woman is performing a yoga pose, 'Bhekasana,' lying on her stomach, bending her knees, and reaching back to touch her feet."
         },
         {
-            "filename": "images/Sergey_Brin_Ted_2010.jpg",
-            "category": "news",
-            "description": "A man with curly hair, wearing a microphone headset, smiles and looks to the side against a blurred background."
-        },
-        {
             "filename": "images/002-soymilk.jpeg",
-            "category": "shopping",
             "description": "A bottle of milk, a bowl of soybeans, and green pods on a wooden table, likely soy milk and its ingredients."
         },
         {
-            "filename": "images/Ipomoea_stir_fry.jpeg",
-            "category": "health",
-            "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate."
-        },
-        {
-            "filename": "images/440px-Gigi_Hadid_Stuart_Weitzman.jpg",
-            "category": "social_media",
-            "description": "A woman is standing by a brick wall, wearing a cropped cable knit sweater, beige blazer, and blue jeans, gazing upwards."
-        },
-        {
-            "filename": "images/Acorn_Soup_(4827753894).jpeg",
-            "category": "health",
-            "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs."
-        },
-        {
-            "filename": "images/Nyle2.jpeg",
-            "category": "social_media",
-            "description": "A shirtless man with a beard, wearing white pants, stands by a window holding a coffee cup, in a bright room."
-        },
-        {
-            "filename": "images/Leila_Goldkuhl_Chloe.jpeg",
-            "category": "shopping",
-            "description": "A woman in a casual outfit with a black cap, graphic tee, and light blue jeans walks on a city street."
-        },
-        {
             "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-            "category": "travel",
             "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino."
         },
         {
-            "filename": "images/Foodora_messenger.jpeg",
-            "category": "social_media",
-            "description": "A delivery person in a pink jacket and helmet rides a bike with a large pink food delivery backpack."
-        },
-        {
             "filename": "images/500px-Backzutaten_041.jpeg",
-            "category": "shopping",
             "description": "Ingredients and a cookbook on a kitchen counter, suggesting preparation for baking."
         },
         {
             "filename": "images/250px-Raphanus_sativus.jpeg",
-            "category": "shopping",
             "description": "A bunch of fresh red radishes with green leaves and white roots."
         },
         {
             "filename": "images/Ludovic_and_Lauren_(8425515069).jpeg",
-            "category": "health",
             "description": "Two runners, a man and a woman, are smiling and jogging in a race, wearing numbered bibs and athletic gear."
         },
         {
-            "filename": "images/510px-Spaltlampe-2.jpeg",
-            "category": "health",
-            "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic."
-        },
-        {
-            "filename": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
-            "category": "social_media",
-            "description": "Two models in stylish black and white attire holding hands, with a backdrop of cacti and a water body."
-        },
-        {
             "filename": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
-            "category": "shopping",
             "description": "A woman performs on stage wearing a sparkling, jeweled black bodysuit, with her hair in motion."
         }
     ]
