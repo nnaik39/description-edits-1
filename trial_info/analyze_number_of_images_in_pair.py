@@ -5,11 +5,6 @@ data = json.load(f)
 
 contexts_assigned_to_image = {}
 
-# Write out some numbers here, and include them in the paper!!
-
-# Each image is assigned two contexts!!
-# For each image here
-
 context_pairs_count = {}
 
 for datapoint in data['images']:

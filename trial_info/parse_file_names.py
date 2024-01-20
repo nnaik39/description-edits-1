@@ -3,20 +3,7 @@ import os
 import textdistance 
 import random 
 
-string_a = 'Hello World!'
-string_b = 'Hello Word!'
-
 algs = textdistance.algorithms
-algs.levenshtein.distance(string_a, string_b)
-# Distance equals 1.0
-algs.levenshtein.similarity(string_a, string_b)
-# Similarity equals 11
-algs.levenshtein.normalized_similarity(string_a, string_b)
-
-# Jaccard similarity of 0.2 between the start description and the final description
-print(algs.jaccard.similarity(string_a, string_b))
-print(algs.jaccard.distance(string_a, string_b))
-print(algs.jaccard.normalized_similarity(string_a, string_b))
 
 f = open('pilot_exp.json')
  
@@ -28,7 +15,7 @@ pilot_exp = json.load(f)
 # list
 
 # Open this here
-f = open('description-editing-final-export.json')
+f = open('ig-vqa-default-rtdb-description-editing-final-export.json')
 study_info = json.load(f)
 
 f = open('old_context_assignments.json')
@@ -69,14 +56,6 @@ for participant in study_info:
         descriptions_per_image[trial['picture']].append(trial['final_description'])
 
 for image in contexts_per_image:
-    if (len(descriptions_per_image[image]) < 3):
-        print("Descriptions per image ", descriptions_per_image[image])
-        print("IMAGE with less than three description edits ", image)
-
-        images_left.append(image)
-        continue 
-
-#    descriptions_per_image[image] = random.sample(descriptions_per_image[image], 3)
     descriptions_per_image[image] = [x.strip() for x in descriptions_per_image[image]]
 
     num_start_description = descriptions_per_image[image].count(start_description_per_image[image])
