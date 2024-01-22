@@ -16,7 +16,7 @@ questions_per_image_context_pair = {}
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
 
-f = open('old_context_assignments.json')
+f = open('pilot_exp.json')
 pilot_exp = json.load(f)
 
 answers = {}
@@ -26,26 +26,24 @@ start_description_per_image = {}
 
 print("Number of images in old context assignments: ", len(pilot_exp['images']))
 
-for i in context_assignments['images']:
-    found_in_pilot_exp = False
+#for i in context_assignments['images']:
+#    found_in_pilot_exp = False
 
-    for participant in study_info:
-        for trial in study_info[participant]:
-            if (trial['picture'] == i['filename']):
-                found_in_pilot_exp = True
+#    for participant in study_info:
+ #       for trial in study_info[participant]:
+  #          if (trial['picture'] == i['filename']):
+   #             found_in_pilot_exp = True
 
-    if (not found_in_pilot_exp):
-        if ({'filename': i['filename'],
-            'description': i['description']} not in new_pilot_exp['images']):
-            new_pilot_exp['images'].append({
-                    'filename': i['filename'],
-                    'description': i['description']
-            })
+#    if (not found_in_pilot_exp):
+ #       if ({'filename': i['filename'],
+  #          'description': i['description']} not in new_pilot_exp['images']):
+ #           new_pilot_exp['images'].append({
+  #                  'filename': i['filename'],
+   #                 'description': i['description']
+   #         })
             
-with open("new_pilot_exp.json", "w") as outfile:
-    outfile.write(json.dumps(new_pilot_exp, indent = 4))
-
-exit()
+#with open("new_pilot_exp.json", "w") as outfile:
+ #   outfile.write(json.dumps(new_pilot_exp, indent = 4))
 
 for participant in study_info:
     for trial in study_info[participant]:
