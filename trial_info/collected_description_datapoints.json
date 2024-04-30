@@ -55,6 +55,7 @@
             "Two martial arts athletes in mid-fight; one is executing a high kick to the head of the opponent.  The person doing the kicking is wearing blue and the person being kicked is in red.\n",
             "Two taekwondo athletes in mid-fight; one is executing a high kick to the head of the opponent.\n",
             "Two taekwondo athletes in mid-fight; one in blue gear is executing a high kick to the head of the opponent in red gear.\n",
+            "Two taekwondo athletes in mid-fight; one is executing a high kick to the head of the opponent.\n",
             "Two taekwondo athletes in mid-fight; one is executing a high kick to the head of the opponent.\n"
         ]
     },
@@ -177,7 +178,8 @@
         "answers": [
             "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a blue plume of mineral-rich water.\n",
             "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a plume of mineral-rich water.\n",
-            "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a plume of mineral-rich water.\n"
+            "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a plume of mineral-rich water.\n",
+            "Underwater photo of black smoke, a type of hydrothermal vent, emitting a plume of mineral-rich water.\n"
         ]
     },
     {
@@ -318,7 +320,8 @@
             "A scientist in a lab coat and hairnet is using a pipette and lab equipment near a window.\n",
             "A scientist in a lab coat and white hairnet is using a pipette and lab equipment near a window.\n",
             "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-            "A scientist in a lab coat and hairnet is using a medical instrument, and lab equipment near a window.\n"
+            "A scientist in a lab coat and hairnet is using a medical instrument, and lab equipment near a window.\n",
+            "A scientist in a lab coat and hairnet is using a pipette and lab equipment near a window.\n"
         ]
     },
     {
@@ -376,7 +379,8 @@
             "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods.\n",
             "A panoramic view of an expansive warehouse with numerous workers at workstations amid aisles filled with packages and goods.\n",
             "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods.\n",
-            "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods.\n"
+            "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods.\n",
+            "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods that they appear to be getting ready to ship out to customers.\n"
         ]
     },
     {
@@ -467,7 +471,8 @@
             "A bottle of milk, a bowl of soybeans, and green pods on a wooden table, likely soy milk and its ingredients.\n",
             "A bottle of milk, a bowl of soybeans, and a bowl of edamame on a wooden table, likely soy milk and its ingredients.\n",
             "A close up image of a bottle of soymilk, a bowl of shelled soybeans, and green soybean pods on a wooden table.\n",
-            "A bottle of milk, a bowl of soybeans, and green pods on a wooden table, likely soy milk and its ingredients.\n"
+            "A bottle of milk, a bowl of soybeans, and green pods on a wooden table, likely soy milk and its ingredients.\n",
+            "A bottle of milk, a bowl of soybeans, and green pods on a wooden table, likely soy milk, with the soybeans as an ingredient. The green pods appear to be green beans.\n"
         ]
     },
     {
@@ -525,7 +530,8 @@
         "answers": [
             "An opulent shopping mall with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
             "An opulent shopping arcade with a glass ceiling, luxury storefronts, and with ornate lamps and carpets, likely in a high-end casino.\n",
-            "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n"
+            "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
+            "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino. \n"
         ]
     },
     {
@@ -588,6 +594,142 @@
             "A woman is wearing a sparkling, sequined black bodysuit, with her hair flowing behind her.\n",
             "A woman with medium-length, blonde, wavy hair, performs on stage wearing a sparkling, jeweled black bodysuit, which accentuates her figure and has a jeweled chocker-style collar.  Her hair waves in the breeze and she looks off into the distance.\n",
             "A woman performs on stage wearing a sparkling, jeweled black bodysuit, with her hair blown by wind.\n"
+        ]
+    },
+    {
+        "image": "images/Gigi_Hadid_2016.png",
+        "answers": [
+            "A woman in a sparkling black sleeveless dress is walking on a runway with a soft smile.\n",
+            "A woman in a sparkling black sleeveless dress is walking on a runway with a soft smile.\n",
+            "A woman in a sparkling black sleeveless dress is walking on a runway with a soft smile.\n",
+            "A beautiful woman with wavy brown hair in a sparkling black sleeveless dress is walking on a runway with a soft smile. \n",
+            "A woman in a sparkling black sleeveless dress is walking on a runway with a soft smile. The background is blurry. \n"
+        ]
+    },
+    {
+        "image": "images/15736.jpg",
+        "answers": [
+            "A black and white duck with a distinctive yellow eye standing on grass.\n",
+            "A black and white duck with a distinctive yellow eye standing on grass.\n",
+            "A black and white duck with a distinctive yellow eye standing on grass.\n",
+            "A black and white duck with a distinctive yellow eye standing on grass.\n"
+        ]
+    },
+    {
+        "image": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
+        "answers": [
+            "A model walks down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.\n",
+            "A model walks down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.\n",
+            "A model walks down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.\n",
+            "A model walks down a runway in a simple white dress with red straps, against a reflective white floor and audience on both sides.\n"
+        ]
+    },
+    {
+        "image": "images/MICHAEL_KORS_221.jpeg",
+        "answers": [
+            "A model in a shimmering gold gown walks the runway, with seated spectators and note-takers in the background.\n",
+            "A model in a shimmering gold gown walks the runway, with seated spectators and note-takers in the background.\n",
+            "A model in a shimmering gold gown walks the runway, with seated spectators and note-takers in the background.\n"
+        ]
+    },
+    {
+        "image": "images/Cable_Car_No._1_and_Alcatraz_Island.jpg",
+        "answers": [
+            "A cable car goes up a hill in San Francisco with Alcatraz Island in the background on a clear day.\n",
+            "A cable car in San Francisco with Alcatraz Island in the background on a clear day. The front has colors of white and browns, and there are two people you can see hanging from the side by the railings.\n",
+            "A cable car in San Francisco with Alcatraz Island in the background on a clear day.\n",
+            "A cable car in San Francisco with Alcatraz Island in the background on a clear day. The cable car is on a steep hill.\u00a0\n",
+            "A cable car moves uphill toward the photographer in San Francisco with Alcatraz Island in the background on a clear day.  There's a small marina at the bottom of the hill with several boats sailing near the island.\n",
+            "A cable car in San Francisco with Alcatraz Island in the background on a clear day.\n"
+        ]
+    },
+    {
+        "image": "images/Michael_Kors_Spring-Summer_2014_60.jpeg",
+        "answers": [
+            "A row of models in various dresses are lined up on a modeling runway.\n",
+            "It appears that this is a line of models. They all have dark hair and seem to be walking in a line down the runway. They have casual dress attire on of various darker colors.\n",
+            "A line of female models wearing various outfits that are preparing to walk out to the runway.\n",
+            "A model in a dark blue, floral-patterned dress with a waist cut-out detail is leading a group of models down a runway at a fashion show. The audience sits on either side, attentively watching the display of the latest fashion collection.\n",
+            "An expansive warehouse with numerous workers at stations and aisles displaying the packages and goods. \n"
+        ]
+    },
+    {
+        "image": "images/440px-Uber_ride_Bogota_(10277864666).jpeg",
+        "answers": [
+            "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing.\n",
+            "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing. They are following a silver car around a turn that might be in a park.\t\n",
+            "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing.\n",
+            "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing.  \n",
+            "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing while there is another car facing him\n"
+        ]
+    },
+    {
+        "image": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
+        "answers": [
+            "A mallard duck with iridescent green head and white neck ring is floating on water.\n",
+            "A mallard duck with iridescent green head and white neck ring is floating on water.\n",
+            "A mallard duck with it descent green head and white neck ring is floating on water.\n",
+            "A mallard duck with iridescent green head and white neck ring is floating on water.\n",
+            "A mallard duck with iridescent green head and white neck ring is floating on water.\n",
+            "A mallard duck with iridescent green head and white neck ring is floating on water.\n"
+        ]
+    },
+    {
+        "image": "images/MarsCuriosityRover-Drilling-Sol170++-2.jpg",
+        "answers": [
+            "A Mars rover arm is extended over a rocky surface with a hill in the background, likely a photo from Mars.\n",
+            "A Mars rover arm is extended over a flat, rocky surface with a hill in the background, likely a photo from Mars. The horizon is vast and a gigantic mountain can be seen beyond the horizon.\n",
+            "A Mars rover arm is extended over a rocky surface with a hill in the background, likely a photo from Mars. The ground seems to be very dry with brownish red hue. \n"
+        ]
+    },
+    {
+        "image": "images/Ilovechicago.jpeg",
+        "answers": [
+            "Two people tandem skydiving, with expressions of thrill, against a clear blue sky.\n",
+            "Two people tandem skydiving, with expressions of thrill, against a clear blue sky. One of them is a woman with red hair and a \"I heart Chicago\" shirt on, and the other is the instructor.\n",
+            "Two people tandem skydiving, with expressions of thrill, against a clear blue sky.\n",
+            "Two people tandem skydiving, with expressions of thrill, against a clear blue sky.\n",
+            "Two people tandem skydiving, with expressions of thrill, against a clear blue sky.\n",
+            "Two people tandem skydiving, with expressions of thrill, against a clear blue sky.\n"
+        ]
+    },
+    {
+        "image": "images/470px-Uggs2.jpeg",
+        "answers": [
+            "A pair of brown, plush-lined boots is shown from the calf down on a gravelly surface.\n",
+            "A pair of brown, plush-lined boots is shown from the calf down on a gravelly surface.\n",
+            "A pair of brown, plush-lined boots is shown from the calf down on a gravelly surface.\n",
+            "A pair of brown, plush-lined boots is shown from the calf down on a gravelly surface.\n",
+            "A pair of brown, plush-lined boots is shown from the calf down on a gravelly surface.\n",
+            "A pair of brown, UGG brand, plush-lined boots is shown from the calf down on a gravelly surface.\n",
+            "A pair of brown, plush-lined boots is shown from the calf down on a gravelly surface.\n"
+        ]
+    },
+    {
+        "image": "images/Carolina_Herrera_AW14_12.jpeg",
+        "answers": [
+            "A line of models walk down a runway with a dark background in a fashion show, showcasing a variety of elegant outfits.\n",
+            "Models strut down a runway in a fashion show, showcasing a variety of elegant outfits.\n",
+            "Models strut down a runway in a fashion show, showcasing a variety of elegant outfits. The outfits are mostly neutral dark toned colors but the outfit styles greatly varies.\n"
+        ]
+    },
+    {
+        "image": "images/15719.jpg",
+        "answers": [
+            "Gothic revival architecture of a grand building with towers and an arched entrance and a blue sky in the background.\n",
+            "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
+            "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
+            "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
+            "Gothic revival architecture of a grand building with towers and an arched entrance highlighted by sunlight at the top.\n",
+            "Gothic revival architecture of a grand building with towers and an arched entrance, with a clear blue sky in the background. \n"
+        ]
+    },
+    {
+        "image": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
+        "answers": [
+            "A  white musician with pastel-colored hair is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
+            "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
+            "A woman with pastel-colored hair is singing into a microphone, wearing a sparkly, multicolored outfit with a cape, who appears to be at a concert. \n"
         ]
     }
 ]

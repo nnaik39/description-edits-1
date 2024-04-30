@@ -48,11 +48,12 @@ for participant in study_info:
 
 print("Number of images: ", len(answers))
 
-# Make a mapping between images and contexts!
-
-# NOTE: Only 68 images here??
-
 images_to_contexts_map = {}
+
+for i in context_assignments['images']:
+    if (i['filename'] not in images_to_contexts_map):
+        images_to_contexts_map[i['filename']] = []
+    images_to_contexts_map[i['filename']].append(i['category'])
 
 for image in answers:
     if (len(answers[(image)]) >= 3):
@@ -64,13 +65,30 @@ for image in answers:
 question_elicitation_study = {}
 question_elicitation_study['images'] = []
 
-#for datapoint in collected_datapoints:
-#    description = random.choice(descriptions_per_image[image])
+final_description_per_image = {}
 
-#    while (algs.jaccard.similarity(description, start_description_per_image[image]) < 0.2):
-#        description = random.choice(descriptions_per_image[image])
-#    final_description_per_image[image] = description
+for datapoint in collected_datapoints:
+    print("Datapoint ", datapoint)
 
+    description = random.choice(datapoint['answers'])
+
+    while (algs.jaccard.similarity(description, start_description_per_image[image]) < 0.2):
+        description = random.choice(datapoint['answers'])
+    
+    print("Description ", description)
+
+    final_description_per_image[datapoint['image']] = description
+
+# start description per image and final description per image have different names??
+    
+for image in final_description_per_image:
+    for i in range(0, len(images_to_contexts_map[image])):
+        question_elicitation_study['images'].append({
+            'filename': image,
+            'description': final_description_per_image[image],
+            'category': images_to_contexts_map[image][i]
+        })
+    
 print("Number of datapoints left: ", len(new_pilot_exp['images']))
 
 with open("new_pilot_exp.json", "w") as outfile:
@@ -82,4 +100,4 @@ with open("collected_description_datapoints.json", "w") as outfile:
     outfile.write(json.dumps(collected_datapoints, indent = 4))
 
 with open("question_elicitation_study_pilot.json", "w") as outfile:
-    outfile.write(json.dumps(collected_datapoints, indent = 4))
+    outfile.write(json.dumps(question_elicitation_study, indent = 4))

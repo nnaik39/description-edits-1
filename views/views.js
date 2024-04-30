@@ -446,7 +446,7 @@ var thanks = {
                 Mustache.render(viewTemplate, {
                     thanksMessage: this.message,
                     extraMessage:
-                        "Please press the button below to confirm that you completed the experiment with Prolific. Your completion code is C19L5RD1. <br />" +
+                        "Please press the button below to confirm that you completed the experiment with Prolific. Your completion code is CRSS3LT2.<br />" +
                         "<a href=" +
                         config_deploy.prolificURL +
                         ' class="prolific-url">Confirm</a>'
