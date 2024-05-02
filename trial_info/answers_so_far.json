@@ -1,12 +1,5 @@
 [
     {
-        "image": "images/440px-Jon_Gruden2.jpeg",
-        "answers": [
-            "A football coach in conversation with a referee on the field.\n",
-            "A football coach in conversation with a referee on the field.\n"
-        ]
-    },
-    {
         "image": "images/Khao_soi_nam_na.jpeg",
         "answers": [
             "A bowl of Asian noodle soup topped with minced meat and fresh herbs.\n"
@@ -21,27 +14,14 @@
     {
         "image": "images/520px-thumbnail.jpeg",
         "answers": [
-            "A group of people standing beside a swimming pool, some squatting in a row.\n"
+            "A group of people standing beside a swimming pool, some squatting in a row.\n",
+            "There is a group of people doing squats at a public swimming pool. \n"
         ]
     },
     {
         "image": "images/Young_ladies_at_Harajuku.jpeg",
         "answers": [
             "A group of women in traditional Japanese attire.\n"
-        ]
-    },
-    {
-        "image": "images/Meditating_in_Madison_Square_Park.jpeg",
-        "answers": [
-            "People meditating in a city park.\n",
-            "Four people meditating in a city park with trees and chairs around them\n"
-        ]
-    },
-    {
-        "image": "images/Beluga_premier.gov.ru-1.jpeg",
-        "answers": [
-            "A smiling beluga whale above water.\n",
-            "A smiling beluga whale above water.\n"
         ]
     },
     {
@@ -57,28 +37,6 @@
         ]
     },
     {
-        "image": "images/BGSU_Aquarium.jpeg",
-        "answers": [
-            "A room with multiple aquarium tanks placed next to each other. There is a decorative shark on the wall.\n",
-            "A room with multiple aquarium tanks, some sitting on tables and others mounted on the far wall. There is a taxidermic shark on the back wall.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Living_on_the_rainforest.jpeg",
-        "answers": [
-            "A woman cooking over a fire in a tropical forest setting, with a traditional shelter behind her.\n",
-            "A woman cooking over a fire in a tropical forest setting, with a traditional shelter behind her.\n"
-        ]
-    },
-    {
-        "image": "images/E-burg_asv2019-05_img46_view_from_VysotSky.jpeg",
-        "answers": [
-            "A city at sunset, with a river reflecting the warm sky and urban silhouette. There is a body of water in the middle.\n",
-            "A city at sunset, with a river reflecting the warm sky and urban silhouette.\n",
-            "A city at sunset, with a river reflecting the warm sky and urban silhouette. The river is surrounded by a bustling metro.\n"
-        ]
-    },
-    {
         "image": "images/Seaman_jumper.jpeg",
         "answers": [
             "Tan knitted sweater with a large round collar on a hanger.  It has a hoodie type pocket in the front and the right handed sleeve in positioned in the pocket.\n"
@@ -88,13 +46,6 @@
         "image": "images/Cocola_Bakery_Hazelnut_Cake_(17733558344).jpeg",
         "answers": [
             "A seven Layer chocolate and hazelnut cake with a chocolate bar on top. \n"
-        ]
-    },
-    {
-        "image": "images/Forest_dominated_by_Gilbertiodendron_dewevrei_02.jpeg",
-        "answers": [
-            "A dense, green forest floor with scattered leaves and towering trees.\n",
-            "A dense, green forest floor with scattered leaves and towering trees.\n"
         ]
     },
     {
@@ -110,16 +61,10 @@
         ]
     },
     {
-        "image": "images/Aquarium_fg01.jpeg",
-        "answers": [
-            "A home salt water aquarium with colorful corals and a viewing woman in a very dark room.\n",
-            "A home aquarium with colorful corals and a viewing woman in a darkly lit room\n"
-        ]
-    },
-    {
         "image": "images/600px-GDC_onlywayaround.jpeg",
         "answers": [
-            "A group of nine contemporary dancers on a dark stage mid-performance.\n"
+            "A group of nine contemporary dancers on a dark stage mid-performance.\n",
+            "A group of nine contemporary dancers on a dark stage mid-performance. They are illuminated by a circle of light.\n"
         ]
     },
     {
@@ -135,92 +80,24 @@
         ]
     },
     {
-        "image": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
-        "answers": [
-            "Three astronauts inside a spacecraft module holding a Jules Verne manuscript.\n",
-            "Three astronauts sitting inside a spacecraft module holding a Jules Verne manuscript. They are posing with the manuscript and smiling at the camera.\n"
-        ]
-    },
-    {
-        "image": "images/Olivia_Rodrigo_Theatre_at_Ace_Hotel_10_09_2023_(53423846745).jpeg",
-        "answers": [
-            "Singer Olivia Rodrigo performing on stage with a microphone. She has long, wavy, dark hair and is wearing red lipstick and a white vest. \n",
-            "Singer Olivia Rodrigo performing on stage with a microphone in an all white sleeveless outfit.\n"
-        ]
-    },
-    {
-        "image": "images/Hanieh_Ahmaedian_Persian_model_Tehran_9_September_2018_(4).jpeg",
-        "answers": [
-            "A woman with a ponytail posing in a chic outfit consisting of a gray blazer, leather leggings, and gray booties in a boutique.\n",
-            "A woman posing in a chic outfit composed of heels, leggings, a coat and purse in a boutique.\n"
-        ]
-    },
-    {
         "image": "images/DR0071DSC_9245.jpeg",
         "answers": [
             "A green landscape with numerous small islands, mountains, and hills. Surrounded by a blue sky with dozens of clouds.\n"
         ]
     },
     {
-        "image": "images/Mountain_Goat_Mount_Massive.jpeg",
-        "answers": [
-            "A white mountain goat on a rocky mountain edge.\n",
-            "A mountain goat on a rocky mountain edge.\n"
-        ]
-    },
-    {
-        "image": "images/Gemma_Ward.jpeg",
-        "answers": [
-            "A young model with long blonde hair in a wide-brimmed hat on a fashion runway.\n",
-            "A blonde model in a maroon wide-brimmed hat and matching shirt on a fashion runway.\n"
-        ]
-    },
-    {
-        "image": "images/Alexis_Tsipras_in_Moscow_2.jpeg",
-        "answers": [
-            "Man seated in suit and tie, looking thoughtfully to the side.\n",
-            "Middle-aged man with short black hair seated in a black suit and white shirt, looking thoughtfully to the side. His hands are clasped in his lap.\n"
-        ]
-    },
-    {
         "image": "images/Wingsuit_men_getting_ready.jpeg",
         "answers": [
-            "Three people in colorful wingsuits overlooking mountains.\n"
+            "Three people in colorful wingsuits overlooking mountains.\n",
+            "Three people in wingsuits overlooking where they're going to jump. One person's suit is yellow, one is orangeish red and one is bright green. They have backpacks on that correspond with their outfits. \n",
+            "Three people in yellow, orange, and green wingsuits standing at the edge of a cliff with a town down below and tall mountains in the background.\n"
         ]
     },
     {
         "image": "images/Underwater_Walk_of_Sea_Life_London_Aquarium.jpeg",
         "answers": [
-            "A dark aquarium tunnel with a young family at the far end, viewing marine life.\n"
-        ]
-    },
-    {
-        "image": "images/Kaeng_pla_thu_and_tom_mara.jpeg",
-        "answers": [
-            "A Thai meal spread with fish curry and vegetables in several serving dishes and a plate of white rice.\n",
-            "A Thai meal spread with fish curry and vegetables on a blue tablecloth.\n"
-        ]
-    },
-    {
-        "image": "images/Panasonic-oxyride.jpeg",
-        "answers": [
-            "Two gold and blue Panasonic AA batteries side by side, one side showing the company logo, the other showing the expiration date.\n",
-            "Two AA Panasonic batteries side by side.\n"
-        ]
-    },
-    {
-        "image": "images/KITLV_40091_-_Kassian_Cephas_-_Relief_of_the_hidden_base_of_Borobudur_-_1890-1891.jpeg",
-        "answers": [
-            "A stone relief carving showing scenes from centuries ago of a field of grain and small animals and humans and either a dog or wolf taking shelter in small spaces.\n",
-            "A stone relief carving showing scenes from centuries ago. There are four scenes depicted ranging from people to animals and nature.\t\n"
-        ]
-    },
-    {
-        "image": "images/440px-Kluft-photo-2019-07-19-SJBP-regroup2a.jpeg",
-        "answers": [
-            "A night gathering of cyclists with many bicycles, some with illuminated lights, in a parking lot.\n",
-            "A night gathering of many cyclists with bicycles in a brightly illuminated area, some with illuminated lights, in a parking lot in front of three trees.\n",
-            "A night gathering of cyclists with many bicycles, some with illuminated lights, in a parking lot. Trees stand tall in the distance. \n"
+            "A dark aquarium tunnel with a young family at the far end, viewing marine life.\n",
+            "Aquarium tunnel with visitors observing marine life.\n"
         ]
     },
     {
@@ -230,52 +107,15 @@
         ]
     },
     {
-        "image": "images/213px-Kim_2010_Olympic_FS.jpeg",
-        "answers": [
-            "A figure skater in a blue dress doing a spin with one leg extended back, one arm up, and the other arm in front of her body.\n",
-            "A young, female figure skater in a spin with one leg extended back and one arm straight up in the air, wearing a dark blue leotard and tan tights.\n",
-            "A female Asian figure skater wearing a blue dress in a spin with one leg extended back and her arms in an L shape.\n"
-        ]
-    },
-    {
-        "image": "images/Arc_de_Triomphe_HDR_2007.jpeg",
-        "answers": [
-            "The Arc de Triomphe against a blue sky with three cars in front of it and two buildings in the background.\n",
-            "The Arc de Triomphe against a blue sky.\n"
-        ]
-    },
-    {
         "image": "images/Handmade_Chicken_Shawarma_Wrap_-_Lavash.jpeg",
         "answers": [
             "A chicken shawarma wrap that was sliced in half and stacked on the other half sitting on a plate with a piece lettuce.\n"
         ]
     },
     {
-        "image": "images/Pilates_(9956534863).jpeg",
-        "answers": [
-            "Person doing an upside-down pilates exercise while wearing a red shirt and gray pants while in front of a mirror.\n",
-            "Person doing an upside-down pilates exercise.\n"
-        ]
-    },
-    {
         "image": "images/440px-North-American-bullfrog1.jpeg",
         "answers": [
             "A green bullfrog sitting in grass, with its eyes bulging and skin glistening.\n"
-        ]
-    },
-    {
-        "image": "images/233px-Bartholomae-2005.jpeg",
-        "answers": [
-            "A chapel with red domes by a lake, set against a backdrop of snowy mountains.\n",
-            "A mosque with red domes by a lake, set against a backdrop of snowy mountains.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Muesli.jpeg",
-        "answers": [
-            "A bowl of muesli with banana slices and milk on a wooden surface.\n",
-            "A white bowl of muesli with banana slices, milk, and raisins on a wooden surface.\n",
-            "A bowl of muesli with banana slices and milk on a wooden surface.\nThere is a wooden surface where banana slices and milk of muesli are fill in a bowl\n"
         ]
     },
     {
@@ -297,43 +137,16 @@
         ]
     },
     {
-        "image": "images/440px-ShopHouse_lunch_bowl.jpeg",
-        "answers": [
-            "A bowl of mixed grains and vegetables with a fork and a fast food drink cup on a table.\n",
-            "A disposable bowl of mixed grains, vegetables and chicken with a fork sit next to a fast food drink cup on a table.\n"
-        ]
-    },
-    {
         "image": "images/440px-Concia_di_zucchine.jpeg",
         "answers": [
             "A dish of seasoned and saut\u00e9ed zucchini slices, garnished with herbs and red chili peppers.\n"
         ]
     },
     {
-        "image": "images/440px-Wedding_kimono.jpeg",
-        "answers": [
-            "A woman in a traditional Japanese wedding kimono, called 'Shiromuku,' with an elaborate white headpiece.\n",
-            "A woman in a traditional Japanese wedding kimono, called 'Shiromuku,' with an elaborate white headpiece.\n"
-        ]
-    },
-    {
-        "image": "images/2019_Foto_de_familia_dos_Lideres_do_G20.jpeg",
-        "answers": [
-            "World leaders posed for a group photo at the 2019 G20 Osaka Summit.\n",
-            "Leaders posed for a group photo at the G20 Osaka Summit, the majority being men in suits.\n"
-        ]
-    },
-    {
         "image": "images/Third_Photos_107_(50833140586).jpeg",
         "answers": [
-            "American football team dressed in red discussing strategy on field with coach.\n"
-        ]
-    },
-    {
-        "image": "images/320px-Saguenay_500m.jpeg",
-        "answers": [
-            "Speed skaters racing closely on an ice track and leaning very close to the ice.\n",
-            "Speed skaters racing closely on an ice track.\n"
+            "American football team dressed in red discussing strategy on field with coach.\n",
+            "American football team discussing strategy on field.\n"
         ]
     },
     {
@@ -345,20 +158,14 @@
     {
         "image": "images/Papas_de_colores_de_Chiloe.jpeg",
         "answers": [
-            "Assortment of colorful potatoes in a basket laying on straw.\n"
+            "Assortment of colorful potatoes in a basket laying on straw.\n",
+            "Assortment of colorful potatoes in a basket, tipped over a bed of hay.\n"
         ]
     },
     {
         "image": "images/Kue_di_Bandar_Udara_Sultan_Iskandarmuda.jpeg",
         "answers": [
             "A selection of fried snacks on a blue plate.\n"
-        ]
-    },
-    {
-        "image": "images/GiseleBundchen.jpeg",
-        "answers": [
-            "A model in a black dress gazes forward on a runway.\n",
-            "A blonde model in a black dress gazes forward on a runway.\n"
         ]
     },
     {
@@ -374,13 +181,6 @@
         ]
     },
     {
-        "image": "images/Mumbai_03-2016_30_Gateway_of_India.jpeg",
-        "answers": [
-            "A historic arch monument, with a moorish style surrounded by a modest crowd of people.\n",
-            "A historic arch monument with a crowd of people around.\n"
-        ]
-    },
-    {
         "image": "images/Charlie's_Angels_cast_during_interview_01.png",
         "answers": [
             "Three famous women actors wearing casual clothing, sitting together for an interview, with a movie title in the background. They are promoting their film, Charlie's Angels. \n"
@@ -389,33 +189,22 @@
     {
         "image": "images/440px-Laika_ac_Shitamachi_Tanabata_Matsuri_(7560650862).jpeg",
         "answers": [
-            "A woman from behind wearing a traditional blue and white flower patterned kimono at a bustling event at a street in Japan.\n"
-        ]
-    },
-    {
-        "image": "images/384px-NanoRacksCubeSatLaunch_ISS038-E-056389.jpeg",
-        "answers": [
-            "Satellite deployment from the International Space Station with Earth in the background. There is another satellite in the foreground while the new satellite is being ejected into space. \n",
-            "Satellite deployment from the International Space Station with Earth in the background. an Ariel view of a satellite in space\n"
-        ]
-    },
-    {
-        "image": "images/440px-Formation_recorte.jpeg",
-        "answers": [
-            "A performer with long brown hair in sparkling pink attire singing to an audience in the rain with a smile on her face with on hand holding a golden mic and the other hand over her heart.\n",
-            "A performer in sparkling attire singing to an audience in the rain.\n"
+            "A woman from behind wearing a traditional blue and white flower patterned kimono at a bustling event at a street in Japan.\n",
+            "A person from behind wearing a traditional blue and white patterned kimono at a bustling event.\n"
         ]
     },
     {
         "image": "images/Rabanne.jpeg",
         "answers": [
-            "A shimmering brown and gold dress covered with reflective squares.\n"
+            "A shimmering brown and gold dress covered with reflective squares.\n",
+            "A shimmering dress covered with reflective detailing squares that is slightly above the knee.\n"
         ]
     },
     {
         "image": "images/336px-Sts088-703-019e.jpeg",
         "answers": [
-            "a white Space station modules connected in orbit in the empty space.\n"
+            "a white Space station modules connected in orbit in the empty space.\n",
+            "Space station modules connected in orbit.\n"
         ]
     },
     {
@@ -455,14 +244,6 @@
         ]
     },
     {
-        "image": "images/ChipotleBurritoBowl.jpeg",
-        "answers": [
-            "A burrito bowl on a wooden table with a mug\n",
-            "A burrito bowl with a drink on a wooden table.\n",
-            "A burrito bowl stacked with lettuce and pico de gallo with a spoon sticking out of it. It's placed on a wooden table with a tall blue ceramic cup next to it. \n"
-        ]
-    },
-    {
         "image": "images/Male_and_female_chicken_sitting_together.jpeg",
         "answers": [
             "A rooster and hen perched side by side.\n"
@@ -481,24 +262,9 @@
         ]
     },
     {
-        "image": "images/Charli_D'Amelio_at_KCA_2022.jpeg",
-        "answers": [
-            "A joyful girl holding an award on stage that is orange and says Nickolodeon, with a microphone and touching her heart.\n",
-            "Charlie D'amilo (tik-toker, turned reality star) holding an Nickelodeon award on stage, with a microphone and touching her heart.\n"
-        ]
-    },
-    {
         "image": "images/BackBay_skyline.jpeg",
         "answers": [
             "A panoramic view of a dense city skyline along a coastline.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Arttherapyprocess.jpeg",
-        "answers": [
-            "A painted round rock with a door, trees and text that says 'Fear Judgement and Therapy.\n",
-            "A painted rock with trees and text.\n",
-            "A painted rock with trees and text on top of a light green cloth. \n"
         ]
     },
     {
@@ -514,23 +280,10 @@
         ]
     },
     {
-        "image": "images/440px-Pumpkin-Pie-Whole-Slice.jpeg",
-        "answers": [
-            "A pumpkin pie with one slice cut out.\n",
-            "A thick-crusted pumpkin pie with one slice cut out and placed on a table beside the pie.\n"
-        ]
-    },
-    {
-        "image": "images/Mumbadevi_temple.jpeg",
-        "answers": [
-            "A temple with colorful flags atop a worn facade.\n",
-            "A temple with colorful flags atop a worn facade.\n"
-        ]
-    },
-    {
         "image": "images/340px-Priyanka_chopra_at_filmfare_launch.jpeg",
         "answers": [
-            "A dark-haired woman in a red strapless dress with accessories.\n"
+            "A dark-haired woman in a red strapless dress with accessories.\n",
+            "A brunette woman looking snatched in a red strapless dress...just the way God intended!\n"
         ]
     },
     {
@@ -570,31 +323,9 @@
         ]
     },
     {
-        "image": "images/Roastbeef.jpeg",
-        "answers": [
-            "A sliced end portion of juicy, medium-rare cooked roast beef on a cutting board.\n",
-            "Juicy, medium-rare roast beef on a cutting board.\n",
-            "Juicy, medium-rare roast beef on a cutting board.\n"
-        ]
-    },
-    {
-        "image": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
-        "answers": [
-            "A man operating a rice combine harvester in a field.\n",
-            "A man operating a rice combine harvester in a field.\n"
-        ]
-    },
-    {
         "image": "images/Water_droplet_lying_on_a_damask.jpeg",
         "answers": [
             "Close-up of a water droplet on fabric.\n"
-        ]
-    },
-    {
-        "image": "images/Fish_stuffed_with_Thai_herbs.jpeg",
-        "answers": [
-            "Two open pots containing white fish, each pot contains two fish, laid on their back, sliced open and stuffed with herbs, resting on banana leaves.\n",
-            "Two open metal steam pots containing two fish each, with each fish stuffed with herbs on banana leaves. There is a metal lid above the two pots, touching both. The pots and lids are on a blue tile background.\n"
         ]
     },
     {
@@ -616,13 +347,6 @@
         ]
     },
     {
-        "image": "images/Young_woman_in_mariniere,_denim_jacket_en_wrap_skirt.jpeg",
-        "answers": [
-            "A blond woman in a blue jacket, striped top, gray skirt, and gray shoes with a crossbody black purse leaning against a wall and looking to her right.\n",
-            "A woman in a casual outfit leaning against a wall.\n"
-        ]
-    },
-    {
         "image": "images/440px-Small_aquarium.jpeg",
         "answers": [
             "A lively aquarium scene with a variety of small, colorful fish among water plants and decor.\n"
@@ -641,36 +365,17 @@
         ]
     },
     {
-        "image": "images/Richard_Powers_(author).jpeg",
-        "answers": [
-            "A man with gray hair and glasses speaking into a microphone.\n",
-            "A white man with gray hair speaking into a microphone.\n"
-        ]
-    },
-    {
-        "image": "images/Verrine.jpeg",
-        "answers": [
-            "A layered fruit dessert topped with sprouts in a glass.\n",
-            "A layered fruit dessert topped with sprouts in a glass.\n"
-        ]
-    },
-    {
         "image": "images/340px-Rubus_caesius_fruit_-_Keila.jpeg",
         "answers": [
-            "Cluster of ripe blue-black berries on a plant.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Grain_millet,_early_grain_fill,_Tifton,_7-3-02.jpeg",
-        "answers": [
-            "Tall millet plants in a field during early grain fill stage.\n",
-            "Tall millet plants growing densely in a field.\n"
+            "Cluster of ripe blue-black berries on a plant.\n",
+            "Cluster of ripe blue-black berries on a thorny stem.\n"
         ]
     },
     {
         "image": "images/400px-Nellu.jpeg",
         "answers": [
-            "A woman spreading grain with her hands to dry the grains on a large blue tarp during a sunny day.\n"
+            "A woman spreading grain with her hands to dry the grains on a large blue tarp during a sunny day.\n",
+            "A woman spreading grain to dry on a large blue tarp.\n"
         ]
     },
     {
@@ -704,42 +409,6 @@
         ]
     },
     {
-        "image": "images/Rainbirder_-_Leopard_(1).jpeg",
-        "answers": [
-            "Leopard lounging on a rock, gaze fixed in the distance.\n",
-            "Leopard lounging on a rock, gaze fixed in the distance with clear skies.\n"
-        ]
-    },
-    {
-        "image": "images/Short-finned_Pilot_Whale_(8793172995).jpeg",
-        "answers": [
-            "Pilot whale on a stretcher, humans assisting.\n",
-            "A whale has washed on stage at an aquatic park with trainers also surrounding the whale in an attempt to assist the animal.\n"
-        ]
-    },
-    {
-        "image": "images/Lilyfruit.jpeg",
-        "answers": [
-            "A close-up of a green lily bud.\n",
-            "A close-up of a green lily bud.\n"
-        ]
-    },
-    {
-        "image": "images/Priyanka_Chopra_at_Bulgary_launch,_2024_(cropped).jpeg",
-        "answers": [
-            "Actress at an event in a chic dress.\n",
-            "Actress at an event in a chic dress.\n"
-        ]
-    },
-    {
-        "image": "images/Rooster_portrait2.jpeg",
-        "answers": [
-            "Close-up of a rooster's head with a bright red comb.\n",
-            "Close-up of a rooster's head.\n",
-            "Close-up of a rooster's head with a bright red comb.\n"
-        ]
-    },
-    {
         "image": "images/Halved_blackberry_(Rubus_fruticosus).jpeg",
         "answers": [
             "Half a  blackberry covered in shiny black droplets.\n"
@@ -764,13 +433,6 @@
         ]
     },
     {
-        "image": "images/Advent_wreath_and_Christmas_pyramid.jpeg",
-        "answers": [
-            "A lit Christmas pyramid and advent wreath on a festive table.\n",
-            "On the festive table, there is a Christmas pyramid that is lit up and an advent wreath.\n"
-        ]
-    },
-    {
         "image": "images/440px-Piranha1.jpeg",
         "answers": [
             "Several large, shimmering piranhas in an aquarium with a dark backdrop.\n"
@@ -789,30 +451,9 @@
         ]
     },
     {
-        "image": "images/440px-Samuel_Wanjiru_at_2008_Summer_Olympics.jpeg",
-        "answers": [
-            "A marathon runner crossing the finish line with elation as spectators capture the moment. Olympic rings are visible.\n",
-            "A marathon runner crossing the finish line with elation as spectators capture the moment with their digital camera. Olympic rings are visible.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Asiatic_lion_01.jpeg",
-        "answers": [
-            "A lone lion peering through the brush in dry grassland.\n",
-            "A lone lion in dry grassland.\n"
-        ]
-    },
-    {
         "image": "images/Okonjima_Lioness.jpeg",
         "answers": [
             "Lioness sitting on the ground in a savanna. She is surrounded by green grass and small bushes, behind her are forested hills. She is looking at the camera.\n"
-        ]
-    },
-    {
-        "image": "images/Astronaut_Mike_Hopkins_on_Dec._24_Spacewalk.jpg",
-        "answers": [
-            "Astronaut taking a selfie in space, looming largely behind them is earth. \n",
-            "Astronaut taking a selfie in space with Earth behind him.\n"
         ]
     },
     {
@@ -824,55 +465,14 @@
     {
         "image": "images/Kelly_Clarkson_57th_Presidential_Inauguration-cropped.jpeg",
         "answers": [
-            "A woman in a winter coat and purple scarf looking to the side. She has long strawberry blond hair.\n"
-        ]
-    },
-    {
-        "image": "images/CompetitivePumpkins.jpeg",
-        "answers": [
-            "Two giant pumpkins on display, one orange and one beige, with tags.\n",
-            "Two giant pumpkins on display, one orange and one beige, with tags. The pumpkins are both on separate wood blocks. The orange pumpkin has a white blanket under it. There is a semi-open garage door behind the pumpkins. \n"
-        ]
-    },
-    {
-        "image": "images/PorcelainBerry.jpeg",
-        "answers": [
-            "Colorful berries on a vine.\n",
-            "Colorful berries on a vine.\nwhat's a trees with different sweet colorful berries on a vine\n"
+            "A woman in a winter coat and purple scarf looking to the side. She has long strawberry blond hair.\n",
+            "A Woman in a Winter Coat and Purple Scarf Glancing Sideways"
         ]
     },
     {
         "image": "images/ReginaCarter.jpeg",
         "answers": [
             "A woman playing the violin intensely onstage.\n"
-        ]
-    },
-    {
-        "image": "images/Various_Pumpkins.jpeg",
-        "answers": [
-            "Assortment of colorful pumpkins on grass.\n",
-            "Assortment of colorful pumpkins on grass. sitting in green grass\n"
-        ]
-    },
-    {
-        "image": "images/440px-Dancing_girls_in_concert.jpeg",
-        "answers": [
-            "Two dancers on stage with colorful lighting, one wearing a cap labeled 'YMCMB.'\n",
-            "Two dancers on stage with colorful lighting, one wearing a cap labeled 'YMCMB.'\n"
-        ]
-    },
-    {
-        "image": "images/440px-Scallops_with_wine_sauce.jpeg",
-        "answers": [
-            "Plump scallops on a plate with a light wine sauce.\n",
-            "Plump scallops on a plate with a light wine sauce with salt and better. \n"
-        ]
-    },
-    {
-        "image": "images/Leontopodium_alpinum_1.jpeg",
-        "answers": [
-            "A close-up of an alpine Edelweiss flower with white star-shaped petals. In the background are evergreen shrubs.\n",
-            "A close-up of an alpine Edelweiss flower with white star-shaped petals.\n"
         ]
     },
     {
@@ -894,23 +494,9 @@
         ]
     },
     {
-        "image": "images/Potato_flowers.jpeg",
-        "answers": [
-            "Delicate purple flowers with yellow centers.\n",
-            "Delicate purple petals looking beautiful against the blurry green background.\n"
-        ]
-    },
-    {
         "image": "images/Amaterske_akvarium.jpeg",
         "answers": [
             "A lush aquarium with vibrant live plants and an assortment of tropical fish.\n"
-        ]
-    },
-    {
-        "image": "images/Node_2_-_STS-134.jpeg",
-        "answers": [
-            "A view of the International Space Station's docking port in orbit.\n",
-            "View of a spacecraft docking port in orbit.\n"
         ]
     },
     {
@@ -932,30 +518,9 @@
         ]
     },
     {
-        "image": "images/Sphinx_et_Jungfrau_-_img_06980.jpeg",
-        "answers": [
-            "Snow-covered mountain peaks.\n",
-            "Snow has covered the mountain peaks and valleys.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Phrik_khi_nu.jpeg",
-        "answers": [
-            "A bunch of green and red chili peppers arranged on a clear glass plate.\n",
-            "A bunch of green and red chili peppers arranged on a clear glass plate.\n"
-        ]
-    },
-    {
         "image": "images/Bee_pollinating_Blackberry.jpeg",
         "answers": [
             "A bee pollinating white blackberry flowers.\n"
-        ]
-    },
-    {
-        "image": "images/Business_Centre_of_Moscow_2.jpeg",
-        "answers": [
-            "Moscow's skyline at dusk with illuminated modern skyscrapers.\n",
-            "Moscow's skyline at dusk with illuminated modern skyscrapers, the weather is cloudy\n"
         ]
     },
     {
@@ -965,45 +530,10 @@
         ]
     },
     {
-        "image": "images/Blackberryraspberrystrawberry.jpeg",
-        "answers": [
-            "A bowl of mixed black and red berries in sunlight.\n",
-            "A bowl filled with a mixture of berries is placed in the sunlight.\n",
-            "A bowl of strawberries, raspberries and blackberries sitting in sunlight.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Amazonas,_Iquitos_-_Leticia,_Kolumbien_(11472506936).jpeg",
-        "answers": [
-            "A small raft with people on a vast, murky river in the Amazon.\n",
-            "A small boat with several people on a vast, murky river in the Amazon.\n"
-        ]
-    },
-    {
         "image": "images/Wolf_eel_eating_a_sea_urchin.jpeg",
         "answers": [
-            "Wolf eel eating a sea urchin among coral.\n"
-        ]
-    },
-    {
-        "image": "images/The_Golden_Book_Gown_by_Ryan_Jude_Novelline.jpeg",
-        "answers": [
-            "Model in a very colorful gown.\n",
-            "A mannequin in a colorful gown that has a shiny gold strapless top and a poofy princess bottom with a variety of colors like red, orange, green, blue, and purple. The mannequin is wearing a red wig that has bangs and the mannequin is holding a piece of the dress in its left hand.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Boston_Marathon_2009.jpeg",
-        "answers": [
-            "Wheelchair racers compete in a marathon, closely followed by spectators cheering from the sidelines.\n",
-            "Wheelchair racers compete in a marathon, closely followed by spectators cheering from the sidelines.\n"
-        ]
-    },
-    {
-        "image": "images/400px-Amazonas,_Iquitos_-_Leticia,_Kolumbien_(11472506936).jpeg",
-        "answers": [
-            "People in a small boat on a wide river with lush banks with some clouds in the sky.\n",
-            "People in a small boat on a wide muddy river with lush banks.\n"
+            "Wolf eel eating a sea urchin among coral.\n",
+            "A dark blue Wolf eel eating a white sea urchin among multicolored purple coral.\n"
         ]
     },
     {
@@ -1037,30 +567,9 @@
         ]
     },
     {
-        "image": "images/Marine_Drive_Skyline.jpeg",
-        "answers": [
-            "A bustling cityscape along a waterfront at sunset with a large city in the distance\n",
-            "A bustling cityscape along a waterfront at sunset. The area is full of people and vehicles. The background of the sky is a mixture of autumn colors\n"
-        ]
-    },
-    {
-        "image": "images/Hintersee.jpeg",
-        "answers": [
-            "Calm lake waters with forested mountains in the backdrop.\n",
-            "Calm lake waters with forested mountains in the backdrop on a nice sunny day with blue clear sky.\n"
-        ]
-    },
-    {
         "image": "images/Jelly_cc11.jpeg",
         "answers": [
             "A single bright yellow jellyfish with trailing tentacles in a blue sea.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Palmetto_Park_Rd_and_Mizner_Blvd_2.jpeg",
-        "answers": [
-            "A large, yellow ornate building on a street corner with palm trees and clear skies.\n",
-            "A large, ornate building on a street corner with palm trees and clear skies.\n"
         ]
     },
     {
@@ -1088,13 +597,6 @@
         ]
     },
     {
-        "image": "images/Electric_wire_reel_reused_in_a_furniture_ecodesign.jpeg",
-        "answers": [
-            "Wooden furniture with blue canvas seating.\n",
-            "Wooden furniture with blue canvas seating. They are placed around the table so  everyone can see each other.\n"
-        ]
-    },
-    {
         "image": "images/Raffinerie_Esso_Ingolstadt.jpeg",
         "answers": [
             "Industrial night scene with lit refinery towers and smoke stacks.\n"
@@ -1115,19 +617,22 @@
     {
         "image": "images/440px-West_Boca_photo_D_Ramey_Logan.jpeg",
         "answers": [
-            "Aerial view of a long straight road stretching through a landscape with urban areas.\n"
+            "Aerial view of a long straight road stretching through a landscape with urban areas.\n",
+            "Aerial view of a long straight road stretching through a landscape with urban areas and seems to be very organized and natural.\n"
         ]
     },
     {
         "image": "images/Kate_Spade_by_Marilyn_K._Yee_1999.jpg",
         "answers": [
-            "A smiling woman in a black dress at an event.And golden earrings.\n"
+            "A smiling woman in a black dress at an event.And golden earrings.\n",
+            "A smiling woman with brown hair wearing a black dress a pearl earrings at an event.\n"
         ]
     },
     {
         "image": "images/330px-Zohre_Esmaeli_1.jpeg",
         "answers": [
-            "A model in a vibrant, patterned ethnic outfit on a runway.\n"
+            "A model in a vibrant, patterned ethnic outfit on a runway.\n",
+            "A female model is smiling confidently while she wears a vibrant patterned ethnic outfit, and has her hands on her hips walking elegantly down the runway in front of an audience.  \n"
         ]
     },
     {
@@ -1139,6 +644,7 @@
     {
         "image": "images/FORT_KOCHI_BEACH_SUNSET,KERALA_-_panoramio_(2).jpeg",
         "answers": [
+            "Fishing nets against a sunset backdrop on a beach.\n",
             "Fishing nets against a sunset backdrop on a beach.\n"
         ]
     },
@@ -1175,21 +681,8 @@
     {
         "image": "images/440px-Organic_mixed_beans_shoots.jpeg",
         "answers": [
+            "A close-up of various sprouted beans and legumes.\n",
             "A close-up of various sprouted beans and legumes.\n"
-        ]
-    },
-    {
-        "image": "images/Kung_kam_kram.jpeg",
-        "answers": [
-            "Cooked seafood with yellow sauce on a plate.\n",
-            "Lobster halves with yellow sauce on a plate with utensils.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Walrus_-_Kamogawa_Seaworld_-_pup_-1.jpeg",
-        "answers": [
-            "A walrus with distinctive whiskers sitting on a rock.\n",
-            "A walrus with distinctive whiskers sitting on a rock.\n"
         ]
     },
     {
@@ -1207,20 +700,15 @@
     {
         "image": "images/Sigiriya.jpeg",
         "answers": [
-            "Massive rock fortress above green gardens.\n"
+            "Massive rock fortress above green gardens.\n",
+            "A Massive Rock Fortress Towering Over Lush Green Garden",
+            "Your walking up a dirt road with green grass on either side.  There is a stone wall about 3' tall for an entrance. Looks like a labyrinth of sorts. In the entrance or behind the stone walls there are lots of large trees on the left, right and in front of a huge rock. The rock seems to be coming out of the ground. This rock is hundreds of feet tall. Nothing on the sides of the rock, only erosion over the years and brown in color, but on top it looks like there are trees. Interesting how trees can grow on top of a rock. \n"
         ]
     },
     {
         "image": "images/Chard_(Beta_vulgaris_var_cicla).jpeg",
         "answers": [
             "A plant with large, dark green leaves and bright red stalks growing in a garden.\n"
-        ]
-    },
-    {
-        "image": "images/Grizzled_sqirrel_Chinnar_WLS_Kerala_(67).jpeg",
-        "answers": [
-            "A grizzled giant squirrel clings to a tree limb amid green leaves.\n",
-            "A black adn white giant squirrel clings to a tree limb amid green leaves.\n"
         ]
     },
     {
@@ -1232,26 +720,21 @@
     {
         "image": "images/Aequorea3.jpeg",
         "answers": [
+            "A bioluminescent jellyfish floating in dark waters, emitting light.\n",
             "A bioluminescent jellyfish floating in dark waters, emitting light.\n"
         ]
     },
     {
         "image": "images/ISS_module_at_Cape_Canaveral.jpeg",
         "answers": [
-            "An aerospace module in a hangar at Cape Canaveral. The module is made out of steel. There is a black wheel on the left side of the contraption also. \n"
+            "An aerospace module in a hangar at Cape Canaveral. The module is made out of steel. There is a black wheel on the left side of the contraption also. \n",
+            "Not really sure what this is but I'm told it is n aerospace module in a hangar at Cape Canaveral. It is all silver. \n"
         ]
     },
     {
         "image": "images/Nam_phrik_long_ruea.jpeg",
         "answers": [
             "A traditional Thai relish dish with side condiments. It is on ceramic leaf shaped bowls that are kind of deep. There are two bowls like this and it is inside a larer leaf shaped bowl. \n"
-        ]
-    },
-    {
-        "image": "images/440px-Fresh-muesli.jpeg",
-        "answers": [
-            "A bowl of muesli with berries and oats, ready for eating. It is on a white plastic bowl and it has a white spoon also. \n",
-            "A bowl of oatmeal with red berries and cranberries, ready for eating.\n"
         ]
     },
     {
@@ -1281,15 +764,8 @@
     {
         "image": "images/440px-Redsweeper.jpeg",
         "answers": [
+            "A person operating a large industrial lawn sweeper in an orchard.\n",
             "A person operating a large industrial lawn sweeper in an orchard.\n"
-        ]
-    },
-    {
-        "image": "images/Sundarban_Tiger.jpeg",
-        "answers": [
-            "Orange with black stripes tiger standing by water in the wild with their tail down. \n",
-            "Large orange tiger standing by water near a tree in the wild.\n",
-            "Tiger standing by water in the wild with trees along the bank.\n"
         ]
     },
     {
@@ -1302,27 +778,6 @@
         "image": "images/375px-Cannes_2015_22.jpeg",
         "answers": [
             "A woman with red lipstick and long hair flowing over her right shoulder posing on a red carpet event.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Kylie_Jenner1_(cropped).png",
-        "answers": [
-            "A woman in a red top speaking; her facial expression seems focused and intent.\n",
-            "Kylie Jenner in a red top speaking, her facial expression seems focused and intent.\n"
-        ]
-    },
-    {
-        "image": "images/Simone_Biles_Rio_2016e.jpeg",
-        "answers": [
-            "Simone Biles, a young female gymnast wears an american themed body suit and poses with raised arms\n",
-            "Gymnast Simon Biles in red, white, and blue leotard with raised arms.\n"
-        ]
-    },
-    {
-        "image": "images/Great_male_Leopard_in_South_Afrika-JD.jpeg",
-        "answers": [
-            "A leopard resting in the tall grass. It's coat makes it appear to blend in with it's surroundings\n",
-            "A majestic leopard resting in the tall yellow grass on a sunny day.\n"
         ]
     },
     {
@@ -1344,35 +799,16 @@
         ]
     },
     {
-        "image": "images/9-24-2007_diving_with_wellington-05.jpeg",
-        "answers": [
-            "Two scuba divers underwater at an old shipwreck, one making an OK sign.\n",
-            "Two scuba divers underwater, both are making an OK sign. The divers appear to be inside the wreckage of a ship.\n"
-        ]
-    },
-    {
         "image": "images/Street_Parade_2013_033.jpeg",
         "answers": [
-            "Profile of a woman with her hair in a high ponytail wearing red sunglasses.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Ceviche_de_caballa.jpeg",
-        "answers": [
-            "A plate of ceviche with onions, corn, and a side of sweet potato.\n",
-            "A plate of ceviche with onions, corn, cassava and a side of sweet potato.\n"
-        ]
-    },
-    {
-        "image": "images/Islandpullover_004.jpeg",
-        "answers": [
-            "A traditional knitted sweater laid on a wooden table.\n",
-            "A traditional knitted sweater laid on a wooden table.\n"
+            "Profile of a woman with her hair in a high ponytail wearing red sunglasses.\n",
+            "Profile of a woman wearing red sunglasses.\n"
         ]
     },
     {
         "image": "images/Mumbai_03-2016_39_University.jpeg",
         "answers": [
+            "A tall clock tower with intricate designs and flying birds.\n",
             "A tall clock tower with intricate designs and flying birds.\n"
         ]
     },
@@ -1380,13 +816,6 @@
         "image": "images/440px-Green_tea_3_appearances.jpeg",
         "answers": [
             "Three stages of green tea preparation in bowls: dry leaves, steeped leaves, and brewed tea.\n"
-        ]
-    },
-    {
-        "image": "images/Flower_urchin_by_Vincent_C_Chen.jpeg",
-        "answers": [
-            "A close-up of a flower urchin with intricate patterns.\n",
-            "A close-up of an underwater flower urchin with intricate circular patterns.\n"
         ]
     },
     {
@@ -1404,21 +833,8 @@
     {
         "image": "images/440px-Rapper_Sword_Dancers_-_Sheffield_Steel.jpeg",
         "answers": [
-            "A group of dancers holding swords, performing in a traditional English folk dance.\n"
-        ]
-    },
-    {
-        "image": "images/Summitting_Island_Peak.jpeg",
-        "answers": [
-            "Climber ascending a snowy mountain peak.\n",
-            "Climber ascending a snowy mountain peak.\n"
-        ]
-    },
-    {
-        "image": "images/Catedral_Arequipa,_Peru.jpeg",
-        "answers": [
-            "A majestic cathedral with two towering spires against a clear sky with people outside\n",
-            "A majestic cathedral with two towering spires, two archies for entrance and exits under a clear sky.\n"
+            "A group of dancers holding swords, performing in a traditional English folk dance.\n",
+            "A group of dancers holding swords, performing in a traditional English folk dance. A smiling trio of English folk dancers holding swords stand smiling after\ntheir performance. \n"
         ]
     },
     {
@@ -1440,43 +856,15 @@
         ]
     },
     {
-        "image": "images/440px-Florida_chicken_house.jpeg",
-        "answers": [
-            "Inside a large industrial chicken farm filled with many white chickens.\n",
-            "Inside a large industrial chicken farm filled with many white chickens.\nA large industrial house was filled  with a lot white chickens\n"
-        ]
-    },
-    {
         "image": "images/440px-Shunsuke1_20080622.jpeg",
         "answers": [
             "A soccer player about to kick a ball during a game, with three of the other team's players and a goalie guarding the goal in the background.\n"
         ]
     },
     {
-        "image": "images/Eliud_Kipchoge_in_Berlin.jpeg",
-        "answers": [
-            "A marathon runner competing in an event with people on the sidelines watching.\n",
-            "An older black man running down a street in a marathon while wearing orange pants and shoes and a white shirt. \n"
-        ]
-    },
-    {
         "image": "images/Processing_green_tea.jpeg",
         "answers": [
             "Two people rubbing green tea leaves between their hands over in a wooden box collecting the droppings.\n"
-        ]
-    },
-    {
-        "image": "images/440px-Basket_of_wild_blackberries.jpeg",
-        "answers": [
-            "A wicker basket full of ripe blackberries on a wooden surface outdoors with greenery in the background. \n",
-            "A wicker basket full of ripe blackberries on a wooden surface outdoors.\n"
-        ]
-    },
-    {
-        "image": "images/Highland_Grassland_Shola_of_Silent_Valley_National_Park.jpeg",
-        "answers": [
-            "Expansive view of amber colored mountains under a clear sky.\n",
-            "Expansive view of yellow grass-covered rolling hills under a clear sky.\n"
         ]
     },
     {
@@ -1504,23 +892,10 @@
         ]
     },
     {
-        "image": "images/Electrophorus_electricus_showing_lateral_line_pits.jpeg",
-        "answers": [
-            "Close-up of an black electric eel showing its skin and sensory pits.\n",
-            "Close-up of an electric eel showing its skin and sensory pits.\n"
-        ]
-    },
-    {
         "image": "images/Gianni_Versace_evening_dress_vintage.jpeg",
         "answers": [
-            "A colorful and vibrant Gianni Versace evening dress on a mannequin.\n"
-        ]
-    },
-    {
-        "image": "images/600px-Waterpolo_man_up.jpeg",
-        "answers": [
-            "An aerial view of a water polo match in a blue pool with floating goals. Someone is about to shoot it into the goal, as defends try and block with their hands.\n",
-            "An aerial view of a water polo match in a blue pool with floating goals in 2004 Athens Olympic.\n"
+            "A colorful and vibrant Gianni Versace evening dress on a mannequin.\n",
+            "A colorful and vibrant strapless Gianni Versace evening dress on a mannequin.\n"
         ]
     },
     {
@@ -1533,13 +908,6 @@
         "image": "images/440px-Carrots_are_up_(2634523693).jpeg",
         "answers": [
             "Green carrot sprouts emerging from brown soil.\n"
-        ]
-    },
-    {
-        "image": "images/Skubik_on_Uneven_Bars_2006.jpeg",
-        "answers": [
-            "Female athlete jumping to grab the uneven bars at a gymnastics event.\n",
-            "Female athlete performs a routine on uneven bars at a gymnastics event.\n"
         ]
     },
     {
@@ -1570,13 +938,6 @@
         "image": "images/200px-5adho_mukha_shvanasana (1).jpeg",
         "answers": [
             "A yoga practitioner in an inverted V-shaped pose.\n"
-        ]
-    },
-    {
-        "image": "images/CCSM-UNMSM_Casona_de_San_Marcos_y_Parque_Univesitario.jpeg",
-        "answers": [
-            "A historic yellow building with arched windows beside a green park and fountain.\n",
-            "A historic yellow building with arched windows beside some trees and fountain.\n"
         ]
     },
     {
@@ -1622,13 +983,6 @@
         ]
     },
     {
-        "image": "images/Di_jakarta.jpeg",
-        "answers": [
-            "A tall, lit Christmas tree at night in a bustling city square.\n",
-            "A tall, Christmas tree featuring blue, purple and green decorative lights at night in a bustling city square.\n"
-        ]
-    },
-    {
         "image": "images/Petersdom_von_Engelsburg_gesehen_crop.jpeg",
         "answers": [
             "St. Peter's Basilica in Rome, viewed from a distance with clear skies.\n"
@@ -1643,7 +997,10 @@
     {
         "image": "images/Langar.jpeg",
         "answers": [
-            "A lot of people wearing white bandanas seated on a red floor eating in a communal setting in a foreign country.\n"
+            "A lot of people wearing white bandanas seated on a red floor eating in a communal setting in a foreign country.\n",
+            "A large gathering of people sitting orderly on a red-carpeted floor, all eating their meals.\n",
+            "Hundreds of people seated on the floor eating in a communal setting.\n",
+            "A diverse group of people seated on the floor with white head coverings and eating in a communal setting.\n"
         ]
     },
     {
@@ -1655,13 +1012,15 @@
     {
         "image": "images/440px-Winnie_Harlow_Cannes_2018.jpeg",
         "answers": [
-            "An African-American woman with vitiligo in a green off-shoulder gown waving.\n"
+            "An African-American woman with vitiligo in a green off-shoulder gown waving.\n",
+            "A  smiling woman in a green off-shoulder gown waving.\n"
         ]
     },
     {
         "image": "images/440px-Cliffjumping.jpeg",
         "answers": [
-            "A man and woman cliff jumping into a river surrounded by rock formations and forest under a clear sky.\n"
+            "A man and woman cliff jumping into a river surrounded by rock formations and forest under a clear sky.\n",
+            "A man cliff jumping into a river surrounded by rock formations under a clear sky. A woman is below him who jumped in right before him. \n"
         ]
     },
     {
@@ -1671,23 +1030,9 @@
         ]
     },
     {
-        "image": "images/Thai_market_food_01.jpeg",
-        "answers": [
-            "Vast array of Thai dishes at a market stall.\n",
-            "Vast array of Thai dishes at a market stall. The food is colorful and there are cooks preparing ingredients. \n"
-        ]
-    },
-    {
         "image": "images/Fruit_salad.jpeg",
         "answers": [
             "A bowl filled with a colorful fruit salad, including chopped apples and oranges among other fruits.\n"
-        ]
-    },
-    {
-        "image": "images/1920px-Trevi-Brunnen_abends.jpeg",
-        "answers": [
-            "Famous fountain illuminated at night with crowds around.\n",
-            "Famous fountain illuminated at night with crowds around.\n"
         ]
     },
     {
@@ -1733,29 +1078,16 @@
         ]
     },
     {
-        "image": "images/Spb_06-2017_img01_Spit_of_Vasilievsky_Island.jpeg",
-        "answers": [
-            "Aerial view of a city on an island.\n",
-            "Aerial view of a city on an island.\n"
-        ]
-    },
-    {
         "image": "images/440px-Folklore_of_the_popular_heritage_of_the_State_of_the_Philippines_16.jpeg",
         "answers": [
             "Performers in colorful costumes and props on stage in a cultural dance presentation.\n"
         ]
     },
     {
-        "image": "images/Tanoreen_muhammara.jpeg",
-        "answers": [
-            "Bowl of muhammara with olives on the side.\n",
-            "Serving of a bowl of muhammara with olives on the side on a dining table covered with a yellow cloth. \n"
-        ]
-    },
-    {
         "image": "images/Fast_Fashion_killt_das_Klima.jpeg",
         "answers": [
-            "A crowd holding picket signs and a banner protesting fast fashion and its impact on climate.\n"
+            "A crowd holding picket signs and a banner protesting fast fashion and its impact on climate.\n",
+            "A crowd holding a banner protesting fast fashion and its impact on climate.\n"
         ]
     },
     {
@@ -1774,13 +1106,6 @@
         "image": "images/580px-Salto_ornamental_-_UnB.jpeg",
         "answers": [
             "Two people performing a synchronized dive from a high platform.\n"
-        ]
-    },
-    {
-        "image": "images/Rocket_lettuce,_Butternut_squash,_Beetroot,_Green_beans,_whipped_cream_salad.jpeg",
-        "answers": [
-            "Colorful spring salad with cauliflower, cantaloupe, cranberries and greens with a light vinaigrette \n",
-            "Salad with rocket, squash, beetroot, beans, and creamy dressing in a white bowl.\n"
         ]
     },
     {
@@ -1810,7 +1135,8 @@
     {
         "image": "images/180px-Fabiana_Semprebom2.jpeg",
         "answers": [
-            "A model on a runway in a chic, modern outfit. people sitting in chairs watching\n"
+            "A model on a runway in a chic, modern outfit. people sitting in chairs watching\n",
+            "A female model is posed at the end of the runway wearing a chic, modern, multi color dress.\n"
         ]
     },
     {
@@ -1822,13 +1148,15 @@
     {
         "image": "images/440px-Mink_Whale_Meat_Iceland.jpeg",
         "answers": [
-            "Two skewers of grilled black meat with lemon slices on a foam plate, on a wooden surface. with a fork and spoon\n"
+            "Two skewers of grilled black meat with lemon slices on a foam plate, on a wooden surface. with a fork and spoon\n",
+            "Two rectangular Styrofoam plates on a wooden surface. The plate on the left has red meat grilled to having a black charred outside with a lemon slice. The plate on the right has skewered grilled red meat that is black charred on the outside. There is a lemon slice at the top of the skewer. There is also a white plastic knife and white plastic fork.\n"
         ]
     },
     {
         "image": "images/Cambridge_CMS_Bicycle_Racks.jpeg",
         "answers": [
-            "A bike rack in front of a modern building. with a man approaching.\n"
+            "A bike rack in front of a modern building. with a man approaching.\n",
+            "A full bike rack in front of a modern building.\n"
         ]
     },
     {
@@ -1840,13 +1168,15 @@
     {
         "image": "images/Defense.gov_News_Photo_031103-D-2987S-069.jpg",
         "answers": [
-            "A man sitting at a conference table with flags.\n"
+            "A man sitting at a conference table with flags.\n",
+            "The distinguished Statesman sits cheerful and ready at the board table.\n"
         ]
     },
     {
         "image": "images/440px-BMW_Welt_y_Torre_BMW_Munich_Alemania.jpeg",
         "answers": [
-            "A futuristic building lit at night beside a road with streaks of traffic lights and a tower in the background.\n"
+            "A futuristic building lit at night beside a road with streaks of traffic lights and a tower in the background.\n",
+            "A futuristic building lit at night beside a road with streaks of traffic lights and a tower in the background.\nA beautifully lit futuristic building stands out alongside the highway of streaking traffic lights with a triple tower building in the background.\n"
         ]
     },
     {
@@ -1922,20 +1252,6 @@
         ]
     },
     {
-        "image": "images/Kulturmandel_unreife_Fruchte.jpeg",
-        "answers": [
-            "Unripe almonds growing on a tree branch with leaves all around them.\n",
-            "Unripe almonds growing on a tree branch.\n"
-        ]
-    },
-    {
-        "image": "images/Imdt01.jpeg",
-        "answers": [
-            "Two dancers performing an acrobatic move. The man is bending down and the female is on his back with her legs doing the splits.\t\n",
-            "Two dancers performing an acrobatic move.\n"
-        ]
-    },
-    {
         "image": "images/340px-DewberriesWeb.jpeg",
         "answers": [
             "White flowers of the dewberry plant.\n"
@@ -1963,13 +1279,6 @@
         "image": "images/El_Capitan_en_Californie.jpeg",
         "answers": [
             "Massive granite cliff face rising above trees and a reflective river with sun peeking through the clouds in the background.\n"
-        ]
-    },
-    {
-        "image": "images/440px-North_Korea_\u2014_Pyongyang_(1027715688).jpeg",
-        "answers": [
-            "An industrial exhibition with various machinery, products, and company banners on display.\n",
-            "An industrial exhibition with various machinery and company banners on display.\n"
         ]
     },
     {
@@ -2017,6 +1326,7 @@
     {
         "image": "images/240px-Anna_Wintour.jpeg",
         "answers": [
+            "A woman with a signature bob haircut wearing sunglasses at an event.\n",
             "A woman with a signature bob haircut wearing sunglasses at an event.\n"
         ]
     },
@@ -2030,13 +1340,6 @@
         "image": "images/Bekal_Fort_Kasargod.jpeg",
         "answers": [
             "An ancient fort on green grass overlooking the sea on a cloudy day.\n"
-        ]
-    },
-    {
-        "image": "images/440px-FRIM_canopy.jpeg",
-        "answers": [
-            "View from perspective of someone on the ground looking up at a dense canopy of tall trees with a patterned sky.\n",
-            "View from beneath a dense canopy of tall trees with a patterned sky.\n"
         ]
     },
     {
@@ -2138,7 +1441,8 @@
     {
         "image": "images/Faun_HK_100-05.jpeg",
         "answers": [
-            "A large yellow mobile crane with its boom extended.\n"
+            "A large yellow mobile crane with its boom extended.\n",
+            "A Large Yellow Mobile Crane with Extended Boom"
         ]
     },
     {
@@ -2156,7 +1460,8 @@
     {
         "image": "images/COP26-UNFCCC_(51651689982).jpeg",
         "answers": [
-            "Two men are seen shaking hands in a conference room with a green backdrop that has an environmental theme.\n"
+            "Two men are seen shaking hands in a conference room with a green backdrop that has an environmental theme.\n",
+            "Two men shake hands on a stage, clearly appeasing the TV audience in front of a green background with Portuguese words written on it.\n"
         ]
     },
     {
@@ -2180,6 +1485,7 @@
     {
         "image": "images/Korean_shaved_ice-Green_tea_bingsu-07.jpeg",
         "answers": [
+            "A large bowl of green tea shaved ice topped with cookies.\n",
             "A large bowl of green tea shaved ice topped with cookies.\n"
         ]
     },
@@ -2288,7 +1594,423 @@
     {
         "image": "images/440px-Natalia_Vodianova_Paris_Fashion_Week_Spring_Summer_2019_cropped.jpeg",
         "answers": [
-            "A portrait of a woman in a floral dress and large rectangular earrings, smiling contemplatively \n"
+            "A portrait of a woman in a floral dress and large rectangular earrings, smiling contemplatively \n",
+            "A woman with a floral dress and square hoop earrings, smiling slightly.\n"
+        ]
+    },
+    {
+        "image": "images/440px-Bella_Hadid_Met_Gala_2017.jpeg",
+        "answers": [
+            "A woman in an off-shoulder black lace dress posing at a gala.\n",
+            "A woman in an off-shoulder black lace dress posing at a gala. The dress is mostly see-through. She has a silver watch on her left hand and silver bracelets on her right. She has painted her nails red. She has middle parted dark-brown hair that goes down to her shoulders.\n"
+        ]
+    },
+    {
+        "image": "images/Surya_Namaskar_sculpture_at_IGIA_T3_(cropped).jpeg",
+        "answers": [
+            "Artistic sculpture of human figures in a boat.\n"
+        ]
+    },
+    {
+        "image": "images/240px-Kalttanks.Weissbier.Brauerei.Aying.jpg",
+        "answers": [
+            "A brewery\u2019s sterile interior with stainless steel tanks and pipes for beer production.\n"
+        ]
+    },
+    {
+        "image": "images/440px-File_BobsleighrunLP.jpeg",
+        "answers": [
+            "An aerial view of a winding bobsleigh track in a forested area.\n"
+        ]
+    },
+    {
+        "image": "images/Artinstitportland2009palazzo.jpeg",
+        "answers": [
+            "Model walking on a runway in a long red dress and green scarf.\n"
+        ]
+    },
+    {
+        "image": "images/440px-Longyearbyen_colourful_homes.jpeg",
+        "answers": [
+            "A landscape of colorful houses in a cold, mountainous area.\n"
+        ]
+    },
+    {
+        "image": "images/Thanin_market_platu.jpeg",
+        "answers": [
+            "Mackerel fish in woven baskets at a Thai market.\n"
+        ]
+    },
+    {
+        "image": "images/Focaccia_con_rosmarino.jpeg",
+        "answers": [
+            "A slice of focaccia with rosemary on a black plate.\n"
+        ]
+    },
+    {
+        "image": "images/440px-ISS_Unity_module.jpeg",
+        "answers": [
+            "A modular component of a space station, with a limited view of outer space in the background.\n"
+        ]
+    },
+    {
+        "image": "images/440px-Tinikling.jpeg",
+        "answers": [
+            "A group of people performing a traditional Filipino bamboo dance.\n"
+        ]
+    },
+    {
+        "image": "images/Parque_eolico_La_Muela.jpeg",
+        "answers": [
+            "Wind turbines in a field.\n"
+        ]
+    },
+    {
+        "image": "images/M_Rainier.jpeg",
+        "answers": [
+            "Climbers ascend a snowy mountain above the clouds with another peak in the backdrop.\n"
+        ]
+    },
+    {
+        "image": "images/440px-Falafel_(3085478064).jpeg",
+        "answers": [
+            "A close-up of a hand holding a falafel wrap with veggies and dressing.\n"
+        ]
+    },
+    {
+        "image": "images/Stonehenge_(sun).jpeg",
+        "answers": [
+            "Stonehenge with the sun rising between the stones.\n"
+        ]
+    },
+    {
+        "image": "images/Arduino_ftdi_chip-1.jpeg",
+        "answers": [
+            "Macro shot of an electronic chip on a blue circuit board.\n"
+        ]
+    },
+    {
+        "image": "images/440px-Bicycles_and_winter.jpeg",
+        "answers": [
+            "Bicycles covered in snow by the side of a street with a green tram in the background.\n"
+        ]
+    },
+    {
+        "image": "images/240px-San_lady_botswana.jpeg",
+        "answers": [
+            "A person of African descent with short hair, wearing a traditional shoulder wrap, stands outdoors with eyes cast downward.\n"
+        ]
+    },
+    {
+        "image": "images/STS-116_spacewalk_1.jpeg",
+        "answers": [
+            "Astronaut Conducting Spacewalk Near the International Space Station"
+        ]
+    },
+    {
+        "image": "images/Maria_Grazia_Cucinotta_-_nicogenin_-_66eme_Festival_de_Venise_(Mostra)_2.jpeg",
+        "answers": [
+            "Woman Wearing an Elegant Black Dress on the Red Carpet\""
+        ]
+    },
+    {
+        "image": "images/440px-Stranded_Cambrian_scyphozoans.jpeg",
+        "answers": [
+            "A Cluster of Ancient Circular Fossil Imprints Believed to Be Jellyfish on a Ground Surface"
+        ]
+    },
+    {
+        "image": "images/Taylor_Swift_RED_Tour_(8642419792)_(cropped).jpeg",
+        "answers": [
+            "Taylor Swift performing on stage in a red sequin jacket, black shorts and shoes and gold jewelry.\u00a0\n",
+            "Woman in red sequin jacket performing on stage with a microphone on her right hand and her left hand in the air.\n",
+            "A blonde haired, young woman standing on stage in a ring-leader style red sequined jacket. She is holding a microphone in her right hand, down at her side, while reaching out with her left hand in a presenting fashion.\n"
+        ]
+    },
+    {
+        "image": "images/CantoneseJellyfish.jpeg",
+        "answers": [
+            "A dish of Cantonese-style jellyfish, typically served cold.\n"
+        ]
+    },
+    {
+        "image": "images/IMPORTEXPO_IMG_5490_(5971779607).jpeg",
+        "answers": [
+            "A woman in a tight, golden dress and black heels posing beside a red sports  racing car.\n"
+        ]
+    },
+    {
+        "image": "images/Jellyfish_aqurium.jpeg",
+        "answers": [
+            "A swarm of brown jellyfish drifting in the ocean. There are at least 20 of them all together\n"
+        ]
+    },
+    {
+        "image": "images/Knitted-clothing-factory.jpeg",
+        "answers": [
+            "A person in blue coveralls working on large textile machinery.\n"
+        ]
+    },
+    {
+        "image": "images/Baumwoll-Erntemaschine.jpeg",
+        "answers": [
+            "A machine is shredding up cotton and dumping out fluffy white pieces behind it.\n"
+        ]
+    },
+    {
+        "image": "images/Eco_fashion_week_Vancouver_Canada_2011.jpeg",
+        "answers": [
+            "A model walking down a fashion show runway.\n"
+        ]
+    },
+    {
+        "image": "images/440px-Anaconda_(Eunectes_murinus)_(8990193853).jpeg",
+        "answers": [
+            "Three men holding a large anaconda.\n"
+        ]
+    },
+    {
+        "image": "images/Picking_blackberries_in_Oklahoma.jpeg",
+        "answers": [
+            "Hand holding ripe blackberries. Also, there a red berry too.\n"
+        ]
+    },
+    {
+        "image": "images/Aerobic_exercise_-_public_demonstration07.jpeg",
+        "answers": [
+            "Group of people in colorful workout attire doing step aerobics. They are also showing their mussels. \n"
+        ]
+    },
+    {
+        "image": "images/Orca_porpoising.jpeg",
+        "answers": [
+            "Orca whale breaching the water's surface and playing with water. \n"
+        ]
+    },
+    {
+        "image": "images/Feliz_Dia_de_la_Revolucion_Mexico.jpeg",
+        "answers": [
+            "Children in traditional Mexican attire in a parade, holding a banner for 'D\u00eda de la Revoluci\u00f3n'.\n"
+        ]
+    },
+    {
+        "image": "images/Brier_045.jpeg",
+        "answers": [
+            "An indoor curling event with multiple games underway, spectators in the stands, and scoreboards above.\n"
+        ]
+    },
+    {
+        "image": "images/340px-Gabriel_Garko_and_Laura_Torrisi_-_nicogenin_-_66me_Festival_de_Venise_(Mostra)_-_The_Road_(3).jpeg",
+        "answers": [
+            "A man in a white tuxedo and a woman in a black slit gown pose together on the red carpet.\n"
+        ]
+    },
+    {
+        "image": "images/Emperor_Naruhito_and_Empress_Masako_cropped_Emperor_Naruhito_and_Empress_Masako_20191110_1.jpeg",
+        "answers": [
+            "Asian Royalty waving from a car, dressed in ceremonial attire.\n"
+        ]
+    },
+    {
+        "image": "images/440px-Koukouvagia.jpeg",
+        "answers": [
+            "A round bread topped with tomato, feta, olives, and herbs on a white plate.\n"
+        ]
+    },
+    {
+        "image": "images/500px-Outdoor_heated_fish_tank_enclosed_by_glass_plus_reflections.jpeg",
+        "answers": [
+            "A serene indoor pond surrounded by lush plants and reflected glass walls.\n"
+        ]
+    },
+    {
+        "image": "images/Winnie_Harlow_Cannes_2017.jpeg",
+        "answers": [
+            "Woman in a stunning blue gown on stairs.\n"
+        ]
+    },
+    {
+        "image": "images/Tuk-tuk_fastfood_grill_1.jpeg",
+        "answers": [
+            "A street food cart at night, lit by neon lights, selling grilled foods.\n"
+        ]
+    },
+    {
+        "image": "images/2560px-Foro_Romano_visto_dai_Musei_Capitolini_Roma.jpeg",
+        "answers": [
+            "Panoramic view of ancient Roman ruins under a clear sky.\n"
+        ]
+    },
+    {
+        "image": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
+        "answers": [
+            "Fighter jet in mid-flight against blue sky.\n"
+        ]
+    },
+    {
+        "image": "images/King_of_Prussia_Mall_second_floor_near_Bloomingdale's_at_Christmas.jpeg",
+        "answers": [
+            "A multi-level shopping mall decorated for Christmas.\n",
+            "A modern, multi-level shopping mall decorated for Christmas viewed from the second floor, looking towards an escalator. \n"
+        ]
+    },
+    {
+        "image": "images/Fishes,_multicolored_pebbles_and_artificial_plants_within_an_aquarium.jpeg",
+        "answers": [
+            "A colorful aquarium with bright fish and multicolored pebbles.\n"
+        ]
+    },
+    {
+        "image": "images/Chloe_Veitch_modeling,_upright.jpeg",
+        "answers": [
+            "A brunette woman in a white, cropped Vogue t-shirt and cream colored shorts, leaning against a wall on a sunny day.\n"
+        ]
+    },
+    {
+        "image": "images/500px-Master_Scott_Leonard.jpeg",
+        "answers": [
+            "A martial artist performing a high kick during a martial arts demonstration, assisted by a trainer in front of young students.\n"
+        ]
+    },
+    {
+        "image": "images/340px-Grizzly_Bear_Fishing_Brooks_Falls.jpeg",
+        "answers": [
+            "A grizzly bear focused on catching a jumping salmon in a turbulent waterfall.\n"
+        ]
+    },
+    {
+        "image": "images/Sree_Padmanabhaswamy_temple_Thiruvananthapuram,_kerala.jpeg",
+        "answers": [
+            "Intricately carved golden temple facade.\n",
+            "A temple facade with an intricately carved golden roof.\n"
+        ]
+    },
+    {
+        "image": "images/Pumpkin_Seeds_(matured).jpeg",
+        "answers": [
+            "An orange bowl full of mature pumpkin seeds.\n"
+        ]
+    },
+    {
+        "image": "images/CabaneduTrient.jpeg",
+        "answers": [
+            "A stone mountain hut with red shutters  which has a chimney on top of the roof and a flag, set against a rocky backdrop and cloudy sky.\n"
+        ]
+    },
+    {
+        "image": "images/440px-Whalefall_hires.jpeg",
+        "answers": [
+            "Underwater photograph of a collapsed whale skeleton covered in yellow film resting on the seafloor.\n"
+        ]
+    },
+    {
+        "image": "images/Chloe_Veitch_modeling,_head_and_shoulders.jpeg",
+        "answers": [
+            "A young woman with long brown hair wearing a blue t-shirt with the word vogue printed on it and smiling at the camera.\n"
+        ]
+    },
+    {
+        "image": "images/Chang_Chun_Shrine_amk.jpeg",
+        "answers": [
+            "Traditional Asian shrine situated on a cliff with a red bridge and waterfall.\n"
+        ]
+    },
+    {
+        "image": "images/317px-Ashley_Graham_Elle.png",
+        "answers": [
+            "A young woman with long brown hair in a swimsuit sitting in a chair with  a pool behind her.\n"
+        ]
+    },
+    {
+        "image": "images/440px-Kotka_maretarium_inside.jpeg",
+        "answers": [
+            "A very dark indoor view of an aquarium tank with three windows and has various sizes of fish swimming around in green colored looking water. \n",
+            "We are looking at a very tall fish tank or aquarium.  It looks to be three stories, as there are two bars going left to right dividing the tank perfectly. The tank is either very dirty with green algae or there is a light coming in making it look green. There are multiple small fish, a rocky bottom and what looks like larger fish at the top. I can not tell if it is fresh water or sale water. \n"
+        ]
+    },
+    {
+        "image": "images/440px-Almond_blossom02_aug_2007.jpeg",
+        "answers": [
+            "Delicate white with faint hues of pink almond blossoms on a branch along next to flower buds. \n"
+        ]
+    },
+    {
+        "image": "images/440px-Reverse_5391.jpeg",
+        "answers": [
+            "A man in mid rotation as he is executing a dive backwards into a swimming pool.\n"
+        ]
+    },
+    {
+        "image": "images/Unload_wheat_by_the_combine_Claas_Lexion_584.jpeg",
+        "answers": [
+            "A harvesting machine is unloading wheat into a trailer and creating a lot of dust in the air while it transfers. \n"
+        ]
+    },
+    {
+        "image": "images/WAGC_DMT.jpeg",
+        "answers": [
+            "Gymnast flipping over a vaulting table.  A gymnast finishing her release performs a beautiful flip on her way to a solid landing.\n"
+        ]
+    },
+    {
+        "image": "images/Los_Llanos,_Venezuela_(12832335223).jpeg",
+        "answers": [
+            "Herd of buffalo running through a field.\n\n",
+            "Herd of buffalo running through a flat, open field.\n"
+        ]
+    },
+    {
+        "image": "images/NFL_2020_-_Playoffs_-_Washington_vs._Buccaneers_223_(50833097576).jpg",
+        "answers": [
+            "A football player in a red jersey looking to the side.\nThe quarterback of the football team searching the sidelines as he walks the field.\n"
+        ]
+    },
+    {
+        "image": "images/340px-Priyanka_on_the_ramp_for_Mijwan_fashion_show.jpeg",
+        "answers": [
+            "A beautiful brown long haired Indian woman in traditional decorative Indian attire and pierced belly button posing on a runway with one arm bent with hand resting on her hip and other arm hanging down by her side.\n"
+        ]
+    },
+    {
+        "image": "images/Louvre_Courtyard,_Looking_West.jpeg",
+        "answers": [
+            "The Louvre Pyramid lit up at twilight with a clear blue sky and the historical palace on both sides of the picture.\n"
+        ]
+    },
+    {
+        "image": "images/Sam_Altman_TechCrunch_SF_2019_Day_2_Oct_3_(cropped)_(cropped).jpeg",
+        "answers": [
+            "Caucasian man in his 30's with brown curly hair and a blue casual shirt speaking through a microphone headset.\n"
+        ]
+    },
+    {
+        "image": "images/Corylus_colurna_(1).jpeg",
+        "answers": [
+            "A paved shaded path lined with green grass and a large green tree with dense foliage against a clear sky.\n"
+        ]
+    },
+    {
+        "image": "images/Bowie-DD-1974-3.jpeg",
+        "answers": [
+            "A performer in a vibrant cape and elaborate outfit singing into a microphone on stage.\n"
+        ]
+    },
+    {
+        "image": "images/Nam_phrik_pla_chi.jpeg",
+        "answers": [
+            "This thai chili bowl looks amazing. It is beautiful with vibrant colors of mostly greens and orange which looks like rice.  It is being served on a larger white plate with, I believe, ginger, pineapple and cucumber. The main dish in served in a small white bowl sitting atop the white plate. \n"
+        ]
+    },
+    {
+        "image": "images/Kate_Winslet_June-July_2014_HB_Cover.jpeg",
+        "answers": [
+            "I am looking at a magazine cover from a popular fashion magazine. The background is red. The model on the front is seductively looking into the camera. The photo is from her breast up. She is wearing a black dress. Her hair is poofy and about shoulder length. No earrings, only wearing red lipstick. She has definitely been airbrushed as her skin is flawless. She is not smiling, just being seductive. Her left hand is behind her head for a pose. Of course there are ads on the left and right of the magazine to entice you to buy it so you can read the articles. Best shoes, bags, how to get sexy hair, etc.\n"
+        ]
+    },
+    {
+        "image": "images/440px-03WAVRE006b.jpeg",
+        "answers": [
+            "I am watching, I believe, two bungee jumpers free falling from a large platform. It almost looks like a radio or tv tower of some sort. It is white metal and it looks like the only way up it is to climb but there may be stairs we can't see. There is a platform halfway up and then the tower gets smaller at the top. \n"
         ]
     }
 ]
