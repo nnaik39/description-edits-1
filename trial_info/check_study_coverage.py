@@ -6,7 +6,7 @@ with the datapoints that have yet to be covered.
 import json
 from math import e
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-description-editing-1000-images-expansion-export (6).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-description-editing-1000-images-expansion-export (7).json')
 study_info = json.load(f)
 
 f = open('old_context_assignments.json')
